@@ -1,0 +1,1587 @@
+{
+    "problem_solving": [{
+        "question_number": 1,
+        "question_type": "Algebra",
+        "question_subtypes": ["Second-degree equations"],
+        "question_text": "If x + y = 2 and x2 + y2 = 2, what is the value of xy ?  ",
+        "answer_options": ["\ufffd2", "\ufffd1", "0", "1", "2"],
+        "correct_answer": 3,
+        "explanation_text": " x + y = 2 given  y = 2 \ufffd x subtract x from both sides  x2 + (2 \ufffd x)2 = 2  substitute y = 2 \ufffd x into x2 + y2 = 2  2x2 \ufffd 4x + 4 = 2   expand and combine like terms  2x2 \ufffd 4x + 2 = 0 subtract 2 from both sides  x2 \ufffd 2x + 1 = 0 divide both sides by 2  (x \ufffd 1)(x \ufffd 1) = 0 factor  x = 1 set each factor equal to 0  y = 1 use x = 1 and y = 2 \ufffd x  xy = 1 multiply 1 and 1 Alternatively, the value of xy can be found by first squaring both sides of the equation x + y = 2.  x + y = 2 given a particular  2xy = 2 subtract 2 from both sides xy = 1 divide both sides by 2  The correct answer is D. ",
+        "page_num": 88
+    }, {
+        "question_number": 2,
+        "question_type": "Geometry",
+        "question_subtypes": ["Lines and segments"],
+        "question_text": "Points A, B, C, and D, in that order, lie on a line. If AB = 3 cm, AC = 4 cm, and BD = 6 cm, what is CD, in centimeters?  ",
+        "answer_options": ["1", "2", "3", "4", "5"],
+        "correct_answer": 4,
+        "explanation_text": " 4 6  3  A     BC                     D  The figure shows points A, B, C, and D as well as the given measurements. Since AC = AB + BC, it follows that 4 = 3 + BC, and so BC = 1. Then, since BD = BC + CD, it follows that 6 = 1 + CD, and so CD = 5.  Alternately, AD = AB + BD = 3 + 6 = 9. Also, AD = AC + CD, so 9 = 4 + CD and CD = 5.  The correct answer is E. ",
+        "page_num": 88
+    }, {
+        "question_number": 3,
+        "question_type": "Algebra",
+        "question_subtypes": ["Operations on integers"],
+        "question_text": "What is the value of x2yz \ufffd xyz2, if x = \ufffd2, y = 1, and z = 3 ?  ",
+        "answer_options": ["20", "24", "30", "32", "48"],
+        "correct_answer": 2,
+        "explanation_text": "Given that x = \ufffd2, y = 1, and z = 3, it follows by substitution that  x2yz - xyz2 = (-2)2(1)(3) - (-2)(1)(32 ) = (4)(1)(3) - (-2)(1)(9) = 12 - (-18) = 12 + 18 = 30  The correct answer is C. ",
+        "page_num": 88
+    }, {
+        "question_number": 4,
+        "question_type": "Algebra",
+        "question_subtypes": ["Inequalities"],
+        "question_text": "If x > y and y > z, which of the following represents the greatest number?  ",
+        "answer_options": ["x \ufffd z", "x \ufffd y", "y \ufffd x", "z \ufffd y", "z \ufffd x"],
+        "correct_answer": 0,
+        "explanation_text": "From x > y and y > z, it follows that x > z. These inequalities imply the following about the These inequalities imply the following about the differences that are given in the answer choices:  Answer             Algebraic  Reason choice Difference  sign (A) x \ufffd z          positive   x > z implies x\ufffdz>0 (B) x \ufffd y          positive x > y implies (C) y \ufffd x          negative   x\ufffdy>0  (D) z \ufffd y          negative   x \ufffd y > 0 implies y\ufffdx<0 (E) z \ufffd x          negative y > z implies 0>z\ufffdy  x \ufffd z > 0 implies z\ufffdx<0  Since the expressions in A and B represent positive numbers and the expressions in C, D, and E represent negative numbers, the latter can be eliminated because every negative number is less than every positive number. To determine which of x \ufffd z and x \ufffd y is greater, consider the placement of points with coordinates x, y, and z on the number line.  88  z  y                      x  The distance between x and z (that is, x \ufffd z) is the sum of the distance between x and y (that is, x \ufffd y) and the distance between y and z (that is, y \ufffd z). Therefore, (x \ufffd z) > (x \ufffd y), which means that x \ufffd z represents the greater of the numbers represented by (x \ufffd z) and (x \ufffd y). Thus, x \ufffd z represents the greatest of the numbers represented by the answer choices.  Alternatively,  y > zgiven \ufffdy < \ufffdz multiply both sides by \ufffd1 x - y < x - zadd x to both sides  Thus, x \ufffd z represents the greater of the numbers represented by (x \ufffd z) and (x \ufffd y). Therefore, x \ufffd z represents the greatest of the numbers represented by the answer choices.  The correct answer is A. ",
+        "page_num": 88
+    }, {
+        "question_number": 5,
+        "question_type": "Algebra",
+        "question_subtypes": ["First-degree equations"],
+        "question_text": "To order certain plants from a catalog, it costs $3.00 per plant, plus a 5 percent sales tax, plus $6.95 for shipping and handling regardless of the number of plants ordered. If Company C ordered these plants from the catalog at the total cost of $69.95, how many plants did Company C order?  ",
+        "answer_options": ["22", "21", "20", "19", "18"],
+        "correct_answer": 2,
+        "explanation_text": " Letting x represent the number of plants Company C bought from the catalog, then, in dollars, 3.00x is the cost of the plants, (0.05)(3.00x) is the sales tax, and 6.95 is the shipping and handling fee. It follows that  3.00x + (0.05)(3.00x) + 6.95 = 69.95plants + tax + shipping = total  (3.00x)(1.05) + 6.95 = 69.95add like terms (3.00x)(1.05) = 63.00subtract 6.95 from both sides x = 20divide both sides by (3.00)(1.05)  Therefore, Company C bought 20 plants from the catalog.  The correct answer is C. ",
+        "page_num": 89
+    }, {
+        "question_number": 6,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "Company C produces toy trucks at a cost of $5.00 each for the first 100 trucks and $3.50 for each additional truck. If 500 toy trucks were produced by Company C and sold for $10.00 each, what was Company C's gross profit?  ",
+        "answer_options": ["$2,250", "$2,500", "$3,100", "$3,250", "$3,500"],
+        "correct_answer": 2,
+        "explanation_text": "The company's gross profit on the 500 toy trucks is the company's revenue from selling the trucks minus the company's cost of producing the trucks. The revenue is (500)($10.00) = $5,000. The cost for the first 100 trucks is (100)($5.00) = $500, and the cost for the other 400 trucks is (400)($3.50) = $1,400 for a total cost of $500 + $1,400 = $1,900. Thus, the company's gross profit is $5,000 \ufffd $1,900 = $3,100.  The correct answer is C. ",
+        "page_num": 89
+    }, {
+        "question_number": 7,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents"],
+        "question_text": "A group of store managers must assemble 280 displays for an upcoming sale. If they assemble 25 percent of the displays during the first hour and 40 percent of the remaining displays during the second hour, how many of the displays will not have been assembled by the end of the second hour?  ",
+        "answer_options": ["70", "98", "126", "168", "182"],
+        "correct_answer": 2,
+        "explanation_text": " If, during the first hour, 25 percent of the total displays were assembled, then 280(0.25) = 70 displays were assembled, leaving 280 - 70 = 210 displays remaining to be assembled. Since 40 percent of the remaining displays were assembled during the second hour, 0.40(210) = 84 displays were assembled during the second hour. Thus, 70 + 84 = 154 displays were assembled during the first two hours and 280 - 154 = 126 displays had not been assembled by the end of the second hour. by the end of the second hour. The correct answer is C. ",
+        "page_num": 89
+    }, {
+        "question_number": 8,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "Of the following, which is least?  ",
+        "answer_options": ["0.03/0.00071", "0.03/0.0071", "0.03/0.071", "0.03/0.71", "0.03/7.1"],
+        "correct_answer": 4,
+        "explanation_text": " Since the numerator of all of the fractions in the answer choices is 0.03, the least of the fractions will be the fraction with the greatest denominator. The greatest denominator is 7.1, and so the least of the fractions is 0.03 . 7.1  The correct answer is E. ",
+        "page_num": 89
+    }, {
+        "question_number": 9,
+        "question_type": "Algebra",
+        "question_subtypes": ["Substitution", " Operations with rational"],
+        "question_text": "The maximum recommended pulse rate R, when exercising, for a person who is x years of age is given by the equation R = 176 - 0.8x. What is the age, in years, of a person whose maximum recommended pulse rate when exercising is 140 ?  ",
+        "answer_options": ["40", "45", "50", "55", "60"],
+        "correct_answer": 1,
+        "explanation_text": "numbers  Substitute 140 for R in the given equation and solve for x.  140 = 176 - 0.8x -36 = -0.8x -36 -36 = x -0.8  45 = x The correct answer is B. ",
+        "page_num": 89
+    }, {
+        "question_number": 10,
+        "question_type": "Algebra",
+        "question_subtypes": ["First-degree equations"],
+        "question_text": "If the average (arithmetic mean) of 5 numbers j, j + 5, 2j \ufffd 1, 4j \ufffd 2, and 5j \ufffd 1 is 8, what is the value of j ? ",
+        "answer_options": ["1", "7", "1", "3", "8"],
+        "correct_answer": 3,
+        "explanation_text": " j + ( j + 5) + (2 j - 1) + (4 j - 2) + (5 j - 1) = 8 given  5  j + (j + 5) + (2j \ufffd 1) + (4j \ufffd 2) + (5j \ufffd 1) = 40 multiply both sides by 5  13j + 1 = 40 combine like terms  13j = 39 subtract 1 from both sides j = 3 divide both sides by 13  The correct answer is D. ",
+        "page_num": 90
+    }, {
+        "question_number": 11,
+        "question_type": "Geometry",
+        "question_subtypes": ["Area"],
+        "question_text": "Guadalupe owns 2 rectangular tracts of land. One is 300 m by 500 m and the other is 250 m by 630 m. The combined area of these 2 tracts is how many square meters?  ",
+        "answer_options": ["3,360", "307,500", "621,500", "704,000", "2,816,000"],
+        "correct_answer": 1,
+        "explanation_text": " The area of a rectangle can be found by multiplying the length and width of the rectangle. Therefore, the combined area, in square meters, of the 2 rectangular tracts of land is (300)(500) + (250)(630) = 150,000 + 157,500 = 307,500.  The correct answer is B. ",
+        "page_num": 90
+    }, {
+        "question_number": 12,
+        "question_type": "Algebra",
+        "question_subtypes": ["Order"],
+        "question_text": "There are five sales agents in a certain real estate office. One month Andy sold twice as many properties as Ellen, Bob sold 3 more than Ellen, Cary sold twice as many as Bob, and Dora sold as many as Bob and Ellen together. Who sold the most properties that month?  ",
+        "answer_options": ["Andy", "Bob", "Cary", "Dora", "Ellen"],
+        "correct_answer": 2,
+        "explanation_text": " Let x represent the number of properties that Ellen sold, where x  0. Then, since Andy sold twice as many properties as Ellen, 2x represents the number of properties that Andy sold. Bob sold 3 more properties than Ellen, so (x + 3) represents the number of properties that Bob sold. Cary sold twice as many properties as Bob, so 2(x + 3) = (2x + 6) represents the number of properties that Cary sold. Finally, Dora sold as many properties as Bob and Ellen combined, so [(x + 3) + x] = (2x + 3) represents the number of properties that Dora sold. The following table summarizes these results.  Agent  Properties sold Andy   2x Bob    x+3 Cary   2x + 6 Dora   2x + 3 Ellen  x  Since x  0, clearly 2x + 6 exceeds x, x + 3, 2x, and 2x + 3. Therefore, Cary sold the most properties.  The correct answer is C. ",
+        "page_num": 91
+    }, {
+        "question_number": 13,
+        "question_type": "Algebra",
+        "question_subtypes": ["Applied problems", " Substitution"],
+        "question_text": "In a field day at a school, each child who competed in  n events and scored a total of p points was given an  overall  score  of  p  +  n.  Andrew  competed  in  1  event n  and scored 9 points. Jason competed in 3 events and  scored 5, 6, and 7 points, respectively. What was the  ratio of Andrew's overall score to Jason's overall score?  ",
+        "answer_options": ["10", "10", "4", "10", "12"],
+        "correct_answer": 3,
+        "explanation_text": " Andrew participated in 1 event and scored 9 points, so his overall score was 9 + 1 = 10. Jason  1 participated in 3 events and scored 5 + 6 + 7 =  18 18 points, so his overall score was + 3 = 9. The 3  ratio of Andrew's overall score to Jason's overall score was 10.  9 The correct answer is D. ",
+        "page_num": 91
+    }, {
+        "question_number": 14,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on integers"],
+        "question_text": "Which of the following represent positive numbers?  ",
+        "answer_options": ["I only", "II only", "III only", "I and II", "II and III"],
+        "correct_answer": 3,
+        "explanation_text": "Find the value of each expression to determine if it is positive.  I. -3 - (-5) = -3 + 5 = 2, which is positive. II. (-3)(-5) = 15, which is positive. III. -5 - (-3) = -5 + 3 = -2, which is not  positive.  The correct answer is D. ",
+        "page_num": 91
+    }, {
+        "question_number": 15,
+        "question_type": "Algebra",
+        "question_subtypes": ["First-degree equations"],
+        "question_text": "If x is 2 more than x , then x = 4       8  ",
+        "answer_options": ["4", "8", "16", "32", "64"],
+        "correct_answer": 2,
+        "explanation_text": " Write an equation for the given information and solve for x.  x = 2+ x 4          8  (8)    x     =  (8)    2  +  x 4                     8  2x = 16 + x  x = 16  The correct answer is C. ",
+        "page_num": 91
+    }, {
+        "question_number": 16,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "If Mario was 32 years old 8 years ago, how old was he x years ago?  ",
+        "answer_options": ["x - 40", "x - 24", "40 - x", "24 - x", "24 + x"],
+        "correct_answer": 2,
+        "explanation_text": "Since Mario was 32 years old 8 years ago, his age now is 32 + 8 = 40 years old. Therefore, x years ago Mario was 40 - x years old. The correct answer is C. ",
+        "page_num": 91
+    }, {
+        "question_number": 17,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents"],
+        "question_text": "A grocer has 400 pounds of coffee in stock, 20 percent of which is decaffeinated. If the grocer buys another 100 pounds of coffee of which 60 percent is decaffeinated, what percent, by weight, of the grocer's stock of coffee is decaffeinated? ",
+        "answer_options": ["28%", "30%", "32%", "34%", "40%"],
+        "correct_answer": 0,
+        "explanation_text": "The grocer has 400 pounds of coffee in stock, of Arithmetic Percents The grocer has 400 pounds of coffee in stock, of which (400)(20%) = 80 pounds is decaffeinated coffee. Therefore, if the grocer buys 100 pounds of coffee, of which (100)(60%) = 60 pounds is decaffeinated coffee, then the percent of the grocer's stock of coffee that is decaffeinated would be 80 + 60 = 140 = 28 = 28%.  400 + 100 500 100  The correct answer is A. ",
+        "page_num": 92
+    }, {
+        "question_number": 18,
+        "question_type": "Algebra",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "The toll T, in dollars, for a truck using a certain bridge is given by the formula T = 1.50 + 0.50(x - 2), where x is the number of axles on the truck. What is the toll for an 18-wheel truck that has 2 wheels on its front axle and 4 wheels on each of its other axles?  ",
+        "answer_options": ["$2.50", "$3.00", "$3.50", "$4.00", "$5.00"],
+        "correct_answer": 1,
+        "explanation_text": "The 18-wheel truck has 2 wheels on its front axle and 4 wheels on each of its other axles, and so if A represents the number of axles on the truck in addition to the front axle, then 2 + 4A = 18, from which it follows that 4A = 16 and A = 4. Therefore, the total number of axles on the truck is 1 + A = 1 + 4 = 5. Then, using T = 1.50 + 0.50(x - 2), where x is the number of axles on the truck and x = 5, it follows that T = 1.50 + 0.50(5 - 2) = 1.50 + 1.50 = 3.00. Therefore, the toll for the truck is $3.00.  The correct answer is B. ",
+        "page_num": 92
+    }, {
+        "question_number": 19,
+        "question_type": "Algebra",
+        "question_subtypes": ["Second-degree equations"],
+        "question_text": "For what value of x between -4 and 4, inclusive, is the value of x2 - 10x + 16 the greatest?  ",
+        "answer_options": ["-4", "-2", "0", "2", "4"],
+        "correct_answer": 0,
+        "explanation_text": " Given the expression x 2 - 10x + 16, a table of values can be created for the corresponding of values can be created for the corresponding function f(x) = x 2 - 10x + 16 and the graph in the standard (x,y) coordinate plane can be sketched by plotting selected points:  x   f(x)  -4  72  -3  55  -2  40  -1  27  0   16  1   7  2   0  3   -5  4   -8  5   -9  6   -8  7   -5  8   0  9   7 y  (2, 0)  (8, 0) x O  \ufffd4     4  (5,\ufffd9)  It is clear from both the table of values and the sketch of the graph that as the value of x increases from -4 to 4, the values of x 2 - 10x + 16 decrease. Therefore, the value of x 2 - 10x + 16 is greatest when x = -4.  Alternatively, the given expression, x 2 - 10x + 16, has the form ax 2 + bx + c, where a = 1, b = -10, and c = 16. The graph in the standard (x,y) coordinate plane of the corresponding function f(x) = ax 2 + bx + c is a parabola with vertex at x = - b , and so the vertex of the graph of 2a  f(x) = x 2 - 10x + 16 is at  x  =  -    - 10   =  5. 2(1)  Because a = 1 and 1 is positive, this parabola opens upward and values of x 2 - 10x + 16  decrease as x increases from -4 to 4. Therefore, the greatest value of x 2 - 10x + 16 for all values  of x between -4 and 4, inclusive, is at x = -4.  The correct answer is A. ",
+        "page_num": 93
+    }, {
+        "question_number": 20,
+        "question_type": "Algebra",
+        "question_subtypes": ["Fractions"],
+        "question_text": "If x = -5 and y = -1, what is the value of the 8           2  expression -2x - y2 ?  ",
+        "answer_options": ["-23", "-1", "1", "23", "7"],
+        "correct_answer": 2,
+        "explanation_text": " If x = -5 and y = -1 , then 8               2 12 -2x  -  y2  =  -2 -  5  -    -  2   =  5  -  1  =  4  =  1. 8                 4     4     4  The correct answer is C. ",
+        "page_num": 93
+    }, {
+        "question_number": 21,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "The number 2 - 0.5 is how many times the number 1 - 0.5 ?  ",
+        "answer_options": ["2", "2.5", "3", "3.5", "4"],
+        "correct_answer": 2,
+        "explanation_text": "Set up an equation in the order given in the problem, and solve for x. (2 - 0.5) = (1 - 0.5)x 1.5 = 0.5x 3=x  The correct answer is C. ",
+        "page_num": 93
+    }, {
+        "question_number": 22,
+        "question_type": "Algebra",
+        "question_subtypes": ["Simplifying algebraic expressions", ""],
+        "question_text": "If x \ufffd y = R and xy = S, then (x \ufffd 2)(y + 2) =  ",
+        "answer_options": ["R + S \ufffd 4", "R + 2S \ufffd 4", "2R \ufffd S \ufffd 4", "2R + S \ufffd 4", "2R + S"],
+        "correct_answer": 3,
+        "explanation_text": "Substitution  (x \ufffd 2)(y + 2) = xy + 2x \ufffd 2y \ufffd 4 multiply binomials  = xy + 2(x \ufffd y) \ufffd 4 distributive principle  = S + 2R \ufffd 4              substitution  = 2R + S \ufffd 4              commutative principle  The correct answer is D. ",
+        "page_num": 93
+    }, {
+        "question_number": 23,
+        "question_type": "Geometry",
+        "question_subtypes": ["Angles"],
+        "question_text": "In the figure above, if F is a point on the line that bisects angle ACD and the measure of angle DCF is x\ufffd, which of the following is true of x ?  ",
+        "answer_options": ["90  x < 100", "100  x < 110", "110  x < 120", "120  x < 130", "130  x < 140"],
+        "correct_answer": 4,
+        "explanation_text": " D B x\ufffd  A  C      F  As shown in the figure above, if B is on the line that bisects ACD then the degree measure of DCB is 90 = 45. Then because B, C, and F  2 are collinear, the sum of the degree measures of BCD and DCF is 180. Therefore, x = 180 - 45 = 135 and 130  135 < 140.  The correct answer is E. ",
+        "page_num": 94
+    }, {
+        "question_number": 24,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers (reciprocals)"],
+        "question_text": "In which of the following pairs are the two numbers reciprocals of each other?  ",
+        "answer_options": ["I only", "II only", "I and II", "I and III", "II and III"],
+        "correct_answer": 3,
+        "explanation_text": " Two numbers are reciprocals of each other if and only if their product is 1.  I.  3    1   =  1  reciprocals 3  II.          1       -   1    =-      1  not reciprocals  II.    1       -  1    =  -      1     not   reciprocals 17         17         (17)(17)  ( ) III.3      3    =  3  =  1  reciprocals 3       3  The correct answer is D. ",
+        "page_num": 95
+    }, {
+        "question_number": 25,
+        "question_type": "Algebra",
+        "question_subtypes": ["First-degree equations"],
+        "question_text": "A rope 20.6 meters long is cut into two pieces. If the length of one piece of rope is 2.8 meters shorter than the length of the other, what is the length, in meters, of the longer piece of rope?  ",
+        "answer_options": ["7.5", "8.9", "9.9", "10.3", "11.7"],
+        "correct_answer": 4,
+        "explanation_text": "If x represents the length of the longer piece of rope, then x - 2.8 represents the length of the shorter piece, where both lengths are in meters. The total length of the two pieces of rope is 20.6 meters so,  x + (x - 2.8) = 20.6 given 2x - 2.8 = 20.6 add like terms 2x = 23.4 add 2.8 to both sides x = 11.7 divide both sides by 2  Thus, the length of the longer piece of rope is 11.7 meters.  The correct answer is E. ",
+        "page_num": 95
+    }, {
+        "question_number": 26,
+        "question_type": "Geometry",
+        "question_subtypes": ["Coordinate geometry"],
+        "question_text": "In the rectangular coordinate system shown above, points O, P, and Q represent the sites of three proposed housing developments. If a fire station can be built at any point in the coordinate system, at which point would it be equidistant from all three developments?  ",
+        "answer_options": ["(3,1)", "(1,3)", "(3,2)", "(2,2)", "(2,3)"],
+        "correct_answer": 4,
+        "explanation_text": "Any point equidistant from the points (0,0) and (4,0) must lie on the perpendicular bisector of the segment with endpoints (0,0) and (4,0), which is the line with equation x = 2. Any point equidistant from the points (0,0) and (0,6) must lie on the perpendicular bisector of the segment with endpoints (0,0) and (0,6), which is the line with equation y = 3. Therefore, the point that is equidistant from (0,0), (4,0), and (0,6) must lie on both of the lines x = 2 and y = 3, which is the point (2,3).  Alternatively, let (x,y) be the point equidistant from (0,0), (4,0), and (0,6). Since the distance between (x,y) and (0,0) is equal to the distance between (x,y) and (4,0), it follows from the distance formula   that x2 + y 2 = (x - 4)2 + y 2 . Squaring both  sides gives x2 + y2 = (x - 4)2 + y2. Subtracting y2 from both sides of the last equation and then expanding the right side gives x2 = x2 - 8x + 16, or 0 = -8x + 16, or x = 2. Also, since the distance between (x,y) and (0,0) is equal to the distance between (x,y) and (0,6), it follows from the  ( ) distance formula that x2 + y 2 = x2 + y - 6 2 .  Squaring both sides of the last equation gives x2 + y2 = x2 + (y - 6)2. Subtracting x2 from both sides and then expanding the right side gives y2 = y2 - 12y + 36, or 0 = -12y + 36, or y = 3.  The correct answer is E. ",
+        "page_num": 95
+    }, {
+        "question_number": 27,
+        "question_type": "Geometry",
+        "question_subtypes": ["Perimeter and area"],
+        "question_text": "What is the perimeter, in meters, of a rectangular garden 6 meters wide that has the same area as a rectangular playground 16 meters long and 12 meters wide?  ",
+        "answer_options": ["48", "56", "60", "76", "192"],
+        "correct_answer": 3,
+        "explanation_text": "Let L represent the length, in meters, of the rectangular garden. It is given that the width of the garden is 6 meters and the area of the garden is the same as the area of a rectangular playground that is 16 meters long and 12 meters wide. It follows that 6L = (16)(12), and so L = 32. The perimeter of the garden is, then, 2(32 + 6) = 2(38) = 76 meters.  The correct answer is D. ",
+        "page_num": 95
+    }, {
+        "question_number": 28,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "Of the total amount that Jill spent on a shopping trip, excluding taxes, she spent 50 percent on clothing, 20 percent on food, and 30 percent on other items. If Jill paid a 4 percent tax on the clothing, no tax on the food, and an 8 percent tax on all other items, then the total tax that she paid was what percent of the total amount that she spent, excluding taxes? ",
+        "answer_options": ["2.8%", "3.6%", "4.4%", "5.2%", "6.0%"],
+        "correct_answer": 2,
+        "explanation_text": "Let T represent the total amount Jill spent, excluding taxes. Jill paid a 4% tax on the clothing she bought, which accounted for 50% of the total amount she spent, and so the tax she paid on the clothing was (0.04)(0.5T ). Jill paid an 8% tax on the other items she bought, which accounted for 30% of the total amount she spent, and so the tax she paid on the other items was (0.08)(0.3T ). Therefore, the total amount of tax Jill paid was (0.04)(0.5T ) + (0.08)(0.3T ) = 0.02T + 0.024T = 0.044T. The tax as a percent of the total amount Jill spent, excluding taxes, was 0.044T \ufffd 100 % = 4.4%. Arithmetic Applied problems  Let T represent the total amount Jill spent, excluding taxes. Jill paid a 4% tax on the clothing she bought, which accounted for 50% of the total amount she spent, and so the tax she paid on the clothing was (0.04)(0.5T ). Jill paid an 8% tax on the other items she bought, which accounted for 30% of the total amount she spent, and so the tax she paid on the other items was (0.08)(0.3T ). Therefore, the total amount of tax Jill paid was (0.04)(0.5T ) + (0.08)(0.3T ) = 0.02T + 0.024T = 0.044T. The tax as a percent of the total amount Jill spent, excluding taxes, was  0.044T  \ufffd 100  %  =  4.4%. T  The correct answer is C. ",
+        "page_num": 95
+    }, {
+        "question_number": 29,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Inequalities"],
+        "question_text": "How many integers x satisfy both 2 < x  4 and 0x3?  ",
+        "answer_options": ["5", "4", "3", "2", "1"],
+        "correct_answer": 4,
+        "explanation_text": "The integers that satisfy 2 < x  4 are 3 and 4. The integers that satisfy 0  x  3 are 0, 1, 2, and 3. The only integer that satisfies both 2 < x  4 and 0  x  3 is 3, and so there is only one integer that satisfies both 2 < x  4 and 0  x  3.  The correct answer is E. ",
+        "page_num": 96
+    }, {
+        "question_number": 30,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents"],
+        "question_text": "At the opening of a trading day at a certain stock exchange, the price per share of stock K was $8. If the price per share of stock K was $9 at the closing of the day, what was the percent increase in the price per share of stock K for that day?  ",
+        "answer_options": ["1.4%", "5.9%", "11.1%", "12.5%", "23.6%"],
+        "correct_answer": 3,
+        "explanation_text": " An increase from $8 to $9 represents an increase  of    9  -  8  \ufffd  100     %  =  100  %  =  12.5%. 8                       8  The correct answer is D. ",
+        "page_num": 96
+    }, {
+        "question_number": 31,
+        "question_type": "Algebra",
+        "question_subtypes": ["First-degree equations", " Substitution"],
+        "question_text": "As shown in the diagram above, a lever resting on a fulcrum has weights of w1 pounds and w2 pounds, located d1 feet and d2 feet from the fulcrum. The lever is balanced and w1d1 = w2d2. Suppose w1 is 50 pounds and w2 is 30 pounds. If d1 is 4 feet less than d2, what is d2, in feet?  ",
+        "answer_options": ["1.5", "2.5", "6", "10", "20"],
+        "correct_answer": 3,
+        "explanation_text": "Given w1d1 = w2d2, w1 = 50, w2 = 30, and d1 = d2 \ufffd 4, it follows that 50(d2 \ufffd 4) = 30d2, and so 50(d2 \ufffd 4) = 30d2 given 50d2 \ufffd 200 = 30d2 distributive principle  20d2 = 200 add 200 \ufffd 30d2 to both sides d2 = 10 divide both sides by 20  The correct answer is D. ",
+        "page_num": 97
+    }, {
+        "question_number": 32,
+        "question_type": "Algebra",
+        "question_subtypes": ["Simultaneous equations"],
+        "question_text": "The number of rooms at Hotel G is 10 less than twice the number of rooms at Hotel H. If the total number of rooms at Hotel G and Hotel H is 425, what is the number of rooms at Hotel G ?  ",
+        "answer_options": ["140", "180", "200", "240", "280"],
+        "correct_answer": 4,
+        "explanation_text": "Let G be the number of rooms in Hotel G and let H be the number of rooms in Hotel H. Expressed in symbols, the given information is the following system of equations  { G = 2H -10 425 = G + H  Solving the second equation for H gives H = 425 - G. Then, substituting 425 - G for H in the first equation gives  G = 2(425 - G ) - 10 G = 850 - 2G - 10 G = 840 - 2G 3G = 840 G = 280  The correct answer is E. ",
+        "page_num": 97
+    }, {
+        "question_number": 33,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on radical expressions"],
+        "question_text": "(1+ 5)(1- 5) =  ",
+        "answer_options": ["-4", "2", "6", "-4 - 2 5", "6 - 2 5 2 6 -4 - 2 5 6 - 2 5"],
+        "correct_answer": 0,
+        "explanation_text": "Work the problem.  ( )( ) ( ) 1 + 5 1 - 5 = 12 + 5 - 5 -     2  5=  ( )2  1 - 5 = 1 - 5 = -4  The correct answer is A. ",
+        "page_num": 97
+    }, {
+        "question_number": 34,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "A certain population of bacteria doubles every 10 minutes. If the number of bacteria in the population initially was 104, what was the number in the population 1 hour later?  ",
+        "answer_options": ["2(104)", "6(104)", "(26)(104)", "(106)(104)", "(104)6"],
+        "correct_answer": 2,
+        "explanation_text": "If the population of bacteria doubles every 10 minutes, it doubles 6 times in one hour. This doubling action can be expressed as (2)(2)(2)(2)(2)(2) or 26. Thus, if the initial population is 104, the population will be (26)(104) after one hour.  The correct answer is C. ",
+        "page_num": 97
+    }, {
+        "question_number": 35,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "3   +    5     +      7    = 100     1, 000     100,000  ",
+        "answer_options": ["0.357", "0.3507", "0.35007", "0.0357", "0.03507"],
+        "correct_answer": 4,
+        "explanation_text": " If each fraction is written in decimal form, the sum to be found is sum to be found is  0.03 0.005 +0.00007 0.03507  The correct answer is E. ",
+        "page_num": 97
+    }, {
+        "question_number": 36,
+        "question_type": "Algebra",
+        "question_subtypes": ["Exponents"],
+        "question_text": "If r and s are positive integers such that (2r)(4s) = 16, then 2r + s =  ",
+        "answer_options": ["2", "3", "4", "5", "6"],
+        "correct_answer": 3,
+        "explanation_text": "Using the rules of exponents,  (2r)(4s) = 16   given (2r)(22s) = 24  4s = (22)s = 22s, 16 = 24 2r + 2s = 24    addition property of exponents Thus, r + 2s = 4. However, the problem asks for the value of 2r + s. Since r and s are positive integers, s < 2; otherwise, r would not be positive. Therefore, s = 1, and it follows that r + (2)(1) = 4, or r = 2. The value of 2r + s is (2)(2) + 1 = 5.  Alternatively, since (2r )(4s ) = 16 and both r and s are positive, it follows that s < 2; otherwise, 4s  16 and r would not be positive. Therefore, s = 1 and (2r)(4) = 16. It follows that 2r = 4 and r = 2. The value of 2r + s is (2)(2) + 1 = 5.  The correct answer is D. ",
+        "page_num": 97
+    }, {
+        "question_number": 37,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents", " Interpretation of graphs"],
+        "question_text": "The annual budget of a certain college is to be shown on a circle graph. If the size of each sector of the graph is to be proportional to the amount of the budget it represents, how many degrees of the circle should be used to represent an item that is 15 percent of the budget?  ",
+        "answer_options": ["15\ufffd", "36\ufffd", "54\ufffd", "90\ufffd", "150\ufffd"],
+        "correct_answer": 2,
+        "explanation_text": "Since there are 360 degrees in a circle, the measure of the central angle in the circle should be 0.15(360\ufffd) = 54\ufffd.  The correct answer is C. ",
+        "page_num": 98
+    }, {
+        "question_number": 38,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on radical expressions"],
+        "question_text": "16 + 16 =  ",
+        "answer_options": ["4 2", "8 2", "16 2", "8", "16"],
+        "correct_answer": 0,
+        "explanation_text": " Working this problem gives  ( )( ) 16 + 16 = (16)(2) = 16 2 = 4 2  The correct answer is A. ",
+        "page_num": 98
+    }, {
+        "question_number": 39,
+        "question_type": "Algebra",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "Three people each contributed x dollars toward the purchase of a car. They then bought the car for y dollars, an amount less than the total number of dollars contributed. If the excess amount is to be refunded to the three people in equal amounts, each person should receive a refund of how many dollars?  ",
+        "answer_options": ["3x - y", "x-y", "x - 3y", "y - 3x", "3(x - y)"],
+        "correct_answer": 0,
+        "explanation_text": " The total to be refunded is equal to the total contributed minus the amount paid, or 3x - y. If 3x - y is divided into three equal amounts, then each amount will be 3x - y .  3 The correct answer is A. ",
+        "page_num": 98
+    }, {
+        "question_number": 40,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "What  is  the  ratio  of  3  to  the  product  4    3   ? 4                         4  ",
+        "answer_options": ["1", "1", "4", "4", "4"],
+        "correct_answer": 0,
+        "explanation_text": " Work the problem. 3 33 4      =  4   =  4  =  3  \ufffd  1  =  1 12     3     4     3     4 4    3 4       4  The correct answer is A. ",
+        "page_num": 99
+    }, {
+        "question_number": 41,
+        "question_type": "Algebra",
+        "question_subtypes": ["Simultaneous equations"],
+        "question_text": "In the system of equations above, what is the value of x ? 2x + 2y = -4 4x + y = 1  ",
+        "answer_options": ["-3", "-1", "5", "1", "1 3"],
+        "correct_answer": 3,
+        "explanation_text": "Solving the second equation for y gives y = 1 - 4x. Then, substituting 1 - 4x for y in the first equation gives  2x + 2(1 - 4x) = -4 2x + 2 - 8x = -4 -6x + 2 = -4 -6x = -6 x =1  The correct answer is D. ",
+        "page_num": 99
+    }, {
+        "question_number": 42,
+        "question_type": "Algebra",
+        "question_subtypes": ["First-degree equations"],
+        "question_text": "Last week Jack worked 70 hours and earned $1,260. If he earned his regular hourly wage for the first 40 hours worked, 11 times his regular hourly wage for the next 2 20 hours worked, and 2 times his regular hourly wage for the remaining 10 hours worked, what was his regular hourly wage?  ",
+        "answer_options": ["$7.00", "$14.00", "$18.00", "$22.00", "$31.50"],
+        "correct_answer": 1,
+        "explanation_text": "If w represents Jack's regular hourly wage, then Jack's earnings for the week can be represented by the sum of the following amounts, in dollars: 40w (his earnings for the first 40 hours he worked), (20)(1.5w) (his earnings for the next 20 hours he worked), and (10)(2w) (his earnings for the last 10 hours he worked). Therefore,  40w + (20)(1.5w) + (10)(2w) = 1,260 given 90w = 1,260 add like terms w = 14 divide both sides by 90  Jack's regular hourly wage was $14.00. The correct answer is B. ",
+        "page_num": 99
+    }, {
+        "question_number": 43,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on radical expressions"],
+        "question_text": "2+2    6= 2  ",
+        "answer_options": ["6", "2 6", "1+ 6", "1+ 2 6", "2 + 6"],
+        "correct_answer": 2,
+        "explanation_text": " Rewrite the expression to eliminate the denominator.  ( ) 2 + 2 6 = 2 1 + 6 = 1 + 6 2       2  or  2+2 6 = 2+ 2 6 =1+ 6 2 22  The correct answer is C. ",
+        "page_num": 99
+    }, {
+        "question_number": 44,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "A certain fishing boat is chartered by 6 people who are to contribute equally to the total charter cost of $480. If each person contributes equally to a $150 down payment, how much of the charter cost will each person still owe?  ",
+        "answer_options": ["$80", "$66", "$55", "$50", "$45"],
+        "correct_answer": 2,
+        "explanation_text": "Since each of the 6 individuals contributes equally to the $150 down payment, and since it is given that the total cost of the chartered boat is $480, each person still owes $480 - $150 = $55.  6  The correct answer is C. ",
+        "page_num": 99
+    }, {
+        "question_number": 45,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "Which of the following must be equal to zero for all real numbers x ?  ",
+        "answer_options": ["I only", "II only", "I and III only", "II and III only", "I, II, and III"],
+        "correct_answer": 1,
+        "explanation_text": " Consider the numeric properties of each answer choice.  I.  -  1    0  for  all  real  numbers  x. x  II. x + (-x) = 0 for all real numbers x.  III. x0 = 1  0 for all nonzero real numbers x.  Thus, only the expression in II must be equal to zero for all real numbers x.  The correct answer is B. ",
+        "page_num": 100
+    }, {
+        "question_number": 46,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "31 125 =  ",
+        "answer_options": ["0.248", "0.252", "0.284", "0.312", "0.320"],
+        "correct_answer": 0,
+        "explanation_text": "To avoid long division, multiply the given fraction by 1 using a form for 1 that will result in a power  of 10 in the denominator.  31   =  31  =  31  \ufffd  23  =  (31)(8)  =   248    =  0.248 125     53     53     23       103       1, 000  The correct answer is A. ",
+        "page_num": 100
+    }, {
+        "question_number": 47,
+        "question_type": "Algebra",
+        "question_subtypes": ["ic", " Algebra Percents", " Inequalities", ""],
+        "question_text": "If Mel saved more than $10 by purchasing a sweater at a 15 percent discount, what is the smallest amount the original price of the sweater could be, to the nearest dollar?  ",
+        "answer_options": ["45", "67", "75", "83", "150"],
+        "correct_answer": 1,
+        "explanation_text": "Applied problems  Letting P be the original price of the sweater in dollars, the given information can be expressed as (0.15)P > 10. Solving for P gives  (0.15)P > 10 P > 10 = 1, 000 = 200 0.15 15 3 P > 66 2 3  Thus, to the nearest dollar, the smallest amount P could have been is $67.  The correct answer is B. ",
+        "page_num": 101
+    }, {
+        "question_number": 48,
+        "question_type": "Algebra",
+        "question_subtypes": ["Exponents"],
+        "question_text": "If a and b are positive integers and (2a)b = 23, what is the value of 2a 2b ?  ",
+        "answer_options": ["6", "8", "16", "32", "64 64"],
+        "correct_answer": 2,
+        "explanation_text": "It is given that (2a)b = 23, or 2ab = 23. Therefore, ab = 3. Since a and b are positive integers, it follows that either a = 1 and b = 3, or a = 3 and b = 1. In either case a + b = 4, and so 2a2b = 2a + b = 24 = 16.  The correct answer is C. ",
+        "page_num": 101
+    }, {
+        "question_number": 49,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations with rational numbers"],
+        "question_text": "1           =  3  -        1  1 3  - 3  -        1  ",
+        "answer_options": ["7", "13", "23", "7", "5"],
+        "correct_answer": 1,
+        "explanation_text": " Perform each subtraction beginning at the lowest level in the fraction and proceeding upward.  1  =        1 3- 3-11             1 3  -       1 3- 3-1                 2  =        1 1 3- 3- 6 - 1 22  =      1  1 -   5 3  2  =     1   2 - 3     5  =     1      2 15 - 55  =  1 13  5  =5 13  The correct answer is B. ",
+        "page_num": 101
+    }, {
+        "question_number": 50,
+        "question_type": "Algebra",
+        "question_subtypes": ["First-degree equations"],
+        "question_text": "After 4,000 gallons of water were added to a large  water tank that was already filled to 3 of its capacity, 4 the  tank  was  then  at  4  of  its  capacity.   How  many  5  gallons of water does the tank hold when filled to  capacity?  ",
+        "answer_options": ["5,000", "6,200", "20,000", "40,000", "80,000"],
+        "correct_answer": 4,
+        "explanation_text": "Let C be the capacity of the tank. In symbols, the given information is 4, 000 + 3 C = 4 C. Solve  45 for C.  4, 000 + 3 C = 4 C 45 4 3 4, 000                    =    4  -  3  C 5     4  4, 000 = 16 - 15 C 20  4, 000 = 1 C 20  20(4, 000) = C  80, 000 = C  The correct answer is E. ",
+        "page_num": 101
+    }, {
+        "question_number": 51,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "Five machines at a certain factory operate at the same constant rate. If four of these machines, operating simultaneously, take 30 hours to fill a certain production order, how many fewer hours does it take all five machines, operating simultaneously, to fill the same production order?  ",
+        "answer_options": ["3", "5", "6", "16", "24 24"],
+        "correct_answer": 2,
+        "explanation_text": "If 4 machines, working simultaneously, each work for 30 hours to fill a production order, it takes (4)(30) machine hours to fill the order. If 5 machines are working simultaneously, it will take (4)(30) = 24 hours. Thus, 5 machines  5 working simultaneously will take 30 - 24 = 6 fewer hours to fill the production order than 4 machines working simultaneously. The correct answer is C. ",
+        "page_num": 101
+    }, {
+        "question_number": 52,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "How many integers between 1 and 16, inclusive, have exactly 3 different positive integer factors? (Note: 6 is NOT such an integer because 6 has 4 different positive integer factors: 1, 2, 3, and 6.)  ",
+        "answer_options": ["1", "2", "3", "4", "6"],
+        "correct_answer": 1,
+        "explanation_text": "Using the process of elimination to eliminate integers that do NOT have exactly 3 different positive integer factors, the integer 1 can be eliminated since 1 has only 1 positive integer factor, namely 1 itself. Because each prime number has exactly 2 positive factors, each prime number between 1 and 16, inclusive, (namely, 2, 3, 5, 7, 11, and 13) can be eliminated. The integer 6 can also be eliminated since it was used as an example of an integer with exactly 4 positive integer factors. Check the positive integer factors of each of the remaining integers.  Positive integer Number Integer       factors       of factors 4        1, 2, 4                3 8        1, 2, 4, 8             4 9        1, 3, 9                3 10       1, 2, 5, 10            4 12       1, 2, 3, 4, 6, 12      6 14       1, 2, 7, 14            4 15       1, 3, 5, 15            4 16       1, 2, 4, 8, 16         5  102  Just the integers 4 and 9 have exactly 3 positive integer factors.  Alternatively, if the integer n, where n > 1, has exactly 3 positive integer factors, which include 1 and n, then n has exactly one other positive integer factor, say p. Since any factor of p would also be a factor of n, then p is prime, and so p is the only prime factor of n. It follows that n = pk for some integer k > 1. But if k  3, then p2 is a factor of n in addition to 1, p, and n, which contradicts the fact that n has exactly 3 positive integer factors. Therefore, k = 2 and n = p2, which integer factors. Therefore, k = 2 and n = p2, which means that n is the square of a prime number. Of the integers between 1 and 16, inclusive, only 4 and 9 are the squares of prime numbers.  The correct answer is B. ",
+        "page_num": 102
+    }, {
+        "question_number": 53,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "If d = 2.0453 and d* is the decimal obtained by rounding d to the nearest hundredth, what is the value of d* - d ?  ",
+        "answer_options": ["-0.0053", "-0.0003", "0.0007", "0.0047", "0.0153"],
+        "correct_answer": 3,
+        "explanation_text": "Since d = 2.0453 rounded to the nearest hundredth is 2.05, d* = 2.05; therefore, d* - d = 2.05 - 2.0453 = 0.0047.  The correct answer is D. ",
+        "page_num": 103
+    }, {
+        "question_number": 54,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "Stephanie has 21 cups of milk on hand and makes  batch of cookies. Which of the following describes the  amount of milk remaining after she makes the cookies?  ",
+        "answer_options": ["Less than 1 cup", "Between 1 cup and 3 cup 4", "Between 3 cup and 1 cup", "Between  1  cup  and  11  cups", "More than 11 cups"],
+        "correct_answer": 2,
+        "explanation_text": " In cups, the amount of milk remaining is  21  -  2  2    =  9  -  4  =  27 - 16     =  11,  which    is 4        3       4     3        12          12  greater than 3 = 9 and less than 1. 4 12  The correct answer is C. ",
+        "page_num": 103
+    }, {
+        "question_number": 55,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems", " Operations with"],
+        "question_text": "A school club plans to package and sell dried fruit to  raise money. The club purchased 12 containers of  dried fruit, each containing 163 pounds. What is the 4  maximum number of individual bags of dried fruit, each  containing  1  pounds,     that  can  be  sold  from  the  dried 4  fruit the club purchased?  ",
+        "answer_options": ["50", "64", "67", "768", "804"],
+        "correct_answer": 4,
+        "explanation_text": "fractions  The 12 containers, each containing 16 3 pounds 4  of  dried  fruit, contain  a  total  of  (12)    16  3    = 4 67 (12)   4    =  (3)(67)  =  201  pounds   of      dried    fruit,  which will make 201 = (201)(4) = 804 individual 1 4  bags that can be sold.  The correct answer is E. ",
+        "page_num": 103
+    }, {
+        "question_number": 56,
+        "question_type": "Algebra",
+        "question_subtypes": ["Sequences"],
+        "question_text": "The sequence a1, a2, a3, a4, a5 is such that an = an - 1 + 5 for 2  n  5. If a5 = 31, what is the value of a1 ?  ",
+        "answer_options": ["1", "6", "11", "16", "21"],
+        "correct_answer": 2,
+        "explanation_text": "Since an = an - 1 + 5, then an - an - 1 = 5. So, a5 - a4 = 5 a4 - a3 = 5 a3 - a2 = 5 a2 - a1 = 5  Adding the equations gives a5 - a4 + a4 - a3 + a3 - a2 + a2 - a1 = 5 + 5 + 5 + 5  a5 - a1 = 20 and substituting 31 for a5 gives 31 - a1 = 20  a1 = 11. The correct answer is C. ",
+        "page_num": 103
+    }, {
+        "question_number": 57,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "A certain bridge is 4,024 feet long. Approximately how many minutes does it take to cross this bridge at a constant speed of 20 miles per hour? (1 mile = 5,280 feet)  ",
+        "answer_options": ["1", "2", "4", "6", "7"],
+        "correct_answer": 1,
+        "explanation_text": " First, convert 4,024 feet to miles since the speed is given in miles per hour:  4, 024 ft \ufffd 1 mi = 4, 024 mi. 5, 280 ft 5, 280  Now, divide by 20 mph: 4, 024 mi \ufffd 20 mi 5, 280        1 hr  =  4, 024 mi    \ufffd   1  hr   =    4, 024 hr   . 5, 280        20  mi (5, 280)(20)  Last,  convert    4, 024 hr    to  minutes:  (5, 280)(20)  4, 024 hr      \ufffd  60  min  =  (4,024)(60) min 1  hr        (5, 280)(20) (5, 280)(20) 4, 000 \ufffd 60 min. Then, 4, 000 \ufffd 60 min = 5, 000 20  5, 000 20  = 0.8 \ufffd 3 min  2 min. Thus, at a constant speed  of 20 miles per hour, it takes approximately  2 minutes to cross the bridge.  The correct answer is B. ",
+        "page_num": 103
+    }, {
+        "question_number": 58,
+        "question_type": "Algebra",
+        "question_subtypes": ["ic", " Algebra Statistics", " Concepts of sets"],
+        "question_text": "If S = {0, 4, 5, 2, 11, 8}, how much greater than the median of the numbers in S is the mean of the numbers in S ?  ",
+        "answer_options": ["0.5", "1.0", "1.5", "2.0", "2.5"],
+        "correct_answer": 0,
+        "explanation_text": "The median of S is found by ordering the values according to size (0, 2, 4, 5, 8, 11) and taking the Arithmetic; Algebra Statistics; Concepts of sets The median of S is found by ordering the values according to size (0, 2, 4, 5, 8, 11) and taking the average of the two middle numbers: 4 + 5 = 4.5.  2 The mean is sum of n values =  n 0 + 4 + 5 + 2 + 11 + 8 = 5.  6 The difference between the mean and the median is 5 - 4.5 = 0.5.  The correct answer is A. ",
+        "page_num": 104
+    }, {
+        "question_number": 59,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents"],
+        "question_text": "The annual interest rate earned by an investment increased by 10 percent from last year to this year. If the annual interest rate earned by the investment this year was 11 percent, what was the annual interest rate last year?  ",
+        "answer_options": ["1%", "1.1%", "9.1%", "10%", "10.8%"],
+        "correct_answer": 3,
+        "explanation_text": "If L is the annual interest rate last year, then the annual interest rate this year is 10% greater than L, or 1.1L. It is given that 1.1L = 11%. Therefore, L = 11% = 10%. (Note that if the  1.1 given information had been that the investment increased by 10 percentage points, then the equation would have been L + 10% = 11%.)  The correct answer is D. ",
+        "page_num": 104
+    }, {
+        "question_number": 60,
+        "question_type": "Algebra",
+        "question_subtypes": ["Ratio and proportion"],
+        "question_text": "A total of 5 liters of gasoline is to be poured into two empty containers with capacities of 2 liters and 6 liters, respectively, such that both containers will be filled to the same percent of their respective capacities. What amount of gasoline, in liters, must be poured into the 6-liter container?  ",
+        "answer_options": ["4 1", "4", "3 3", "3", "1 1"],
+        "correct_answer": 2,
+        "explanation_text": " If x represents the amount, in liters, of gasoline poured into the 6-liter container, then 5 - x represents the amount, in liters, of gasoline poured into the 2-liter container. After the gasoline is poured into the containers, the 6-liter  container     will     be  filled   to    x  \ufffd 100  %  of  its 6  capacity and the 2-liter container will be filled to  5  -  x  \ufffd  100      %   of  its  capacity.  Because  these   two 2  percents are equal,  x     =  5  -  x          given 6           2   2x = 6(5 - x) multiply both sides by 12  2x = 30 - 6x use distributive property 8x = 30add 6x to both sides  x=33  divide both sides by 8 4  Therefore, 3 3 liters of gasoline must be poured 4  into the 6-liter container.  The correct answer is C. ",
+        "page_num": 105
+    }, {
+        "question_number": 61,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Statistics"],
+        "question_text": "List S consists of 10 consecutive odd integers, and list T consists of 5 consecutive even integers. If the least integer in S is 7 more than the least integer in T, how much greater is the average (arithmetic mean) of the integers in S than the average of the integers in T ?  ",
+        "answer_options": ["2", "7", "8", "12", "22"],
+        "correct_answer": 3,
+        "explanation_text": " Let the integers in S be s, s + 2, s + 4, ..., s + 18, where s is odd. Let the integers in T be t, t + 2, t + 4, t + 6, t + 8, where t is even. Given that Let the integers in S be s, s + 2, s + 4, ..., s + 18, where s is odd. Let the integers in T be t, t + 2, t + 4, t + 6, t + 8, where t is even. Given that s = t + 7, it follows that s - t = 7. The average of the integers in S is 10s + 90 = s + 9, and,  10 similarly, the average of the integers in T is 5t + 20 = t + 4. The difference in these averages  5 is (s + 9) - (t + 4) = (s - t) + (9 - 4) = 7 + 5 = 12. Thus, the average of the integers in S is 12 greater than the average of the integers in T.  The correct answer is D. ",
+        "page_num": 105
+    }, {
+        "question_number": 62,
+        "question_type": "Geometry",
+        "question_subtypes": ["Triangles", " Area"],
+        "question_text": "In the figure above, what is the area of triangular region BCD ? ",
+        "answer_options": ["4 2", "8", "8 2", "16", "16 2"],
+        "correct_answer": 2,
+        "explanation_text": "By the Pythagorean theorem, BD = 42 + 42 = 4 2.  ( ) Then the area of BCD is 1 4 2 (4) = 8 2 . 2 The correct answer is C. ",
+        "page_num": 105
+    }, {
+        "question_number": 63,
+        "question_type": "Algebra",
+        "question_subtypes": ["Second-degree equations"],
+        "question_text": "What is the larger of the 2 solutions of the equation x2 - 4x = 96 ? ",
+        "answer_options": ["8 8", "12", "16", "32", "100"],
+        "correct_answer": 1,
+        "explanation_text": " It is given that x2 - 4x = 96, or x2 - 4x - 96 = 0, or (x - 12)(x + 8) = 0. Therefore, x = 12 or x = -8, and the larger of these two numbers is 12.  Alternatively, from x2 - 4x = 96 it follows that x(x - 4) = 96. By inspection, the left side is either the product of 12 and 8, where the value of x is 12, or the product of -8 and -12, where the value of x is -8, and the larger of these two values of x is 12.  The correct answer is B. ",
+        "page_num": 105
+    }, {
+        "question_number": 64,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations with rational numbers"],
+        "question_text": "Of the goose eggs laid at a certain pond, 2 hatched, 3 and  3  of  the  geese  that  hatched  from  those  eggs  4  survived the first month. Of the geese that survived the first month, 3 did not survive the first year. If 5  120 geese survived the first year and if no more than one goose hatched from each egg, how many goose eggs were laid at the pond? ",
+        "answer_options": ["280", "400", "540", "600", "840"],
+        "correct_answer": 3,
+        "explanation_text": "Let N represent the number of eggs laid at the Arithmetic Operations with rational numbers  Let N represent the number of eggs laid at the  pond. Then     2  N    eggs  hatched    and     3    2  N 3                                4    3  goslings (baby geese) survived the first month.  Since 3 of these goslings did not survive the first 5  year, then 2 did survive the first year. This means 5  that  2     3  2  N      goslings  survived       the   first  year. 5     4  3  But   this  number   is  120  and  so,  2    3    2  N       =  120, 5    4    3  1 N = 120 and N = 5(120) = 600. 5  The correct answer is D. ",
+        "page_num": 105
+    }, {
+        "question_number": 65,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems", " Operations with"],
+        "question_text": "Judy bought a quantity of pens in packages of 5 for $0.80 per package. She sold all of the pens in packages of 3 for $0.60 per package. If Judy's profit from the pens was $8.00, how many pens did she buy and sell?  ",
+        "answer_options": ["40", "80", "100", "200", "400"],
+        "correct_answer": 3,
+        "explanation_text": " decimals Judy purchased the pens for $0.80 = $0.16 each  5 and sold them for $0.60 = $0.20 each. Therefore,  3 her profit on each pen was $0.20 \ufffd $0.16 = $0.04. If her total profit was $8.00, then she bought and sold $8.00 = 200 pens.  $0.04 The correct answer is D. ",
+        "page_num": 106
+    }, {
+        "question_number": 66,
+        "question_type": "Algebra",
+        "question_subtypes": ["Second-degree equations"],
+        "question_text": "If x2 - 2x - 15 = 0 and x > 0, which of the following must be equal to 0 ?  ",
+        "answer_options": ["I only", "II only", "III only", "II and III only", "I, II, and III"],
+        "correct_answer": 3,
+        "explanation_text": " Since x2 - 2x - 15 = 0, then (x - 5)(x + 3) = 0, so x = 5 or x = -3. Since x > 0, then x = 5.  I. 52 - 6(5) + 9 = 25 - 30 + 9 = 4  0 II. 52 - 7(5) + 10 = 25 - 35 + 10 = 0 III. 52 - 10(5) + 25 = 25 - 50 + 25 = 0  The correct answer is D. ",
+        "page_num": 107
+    }, {
+        "question_number": 67,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Estimation"],
+        "question_text": "(39,897)(0.0096) is approximately 198.76  ",
+        "answer_options": ["0.02", "0.2", "2", "20", "200"],
+        "correct_answer": 2,
+        "explanation_text": " (39,897)(0.0096)  (40, 000)(0.01) = (200)(0.01) = 2 198.76  200  The correct answer is C. ",
+        "page_num": 107
+    }, {
+        "question_number": 68,
+        "question_type": "Geometry",
+        "question_subtypes": ["Area", " Pythagorean theorem"],
+        "question_text": "If a square region has area n, what is the length of the diagonal of the square in terms of n ?  ",
+        "answer_options": ["2n", "n", "2 n", "2n", "2n2"],
+        "correct_answer": 0,
+        "explanation_text": "If s represents the side length of the square, then n = s2. By the Pythagorean theorem, the length of the diagonal of the square is  s 2 + s 2 = n + n = 2n.  The correct answer is A. ",
+        "page_num": 107
+    }, {
+        "question_number": 69,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "The \"prime sum\" of an integer n greater than 1 is the sum of all the prime factors of n, including repetitions. For example, the prime sum of 12 is 7, since 12 = 2 \ufffd 2 \ufffd 3 and 2 + 2 + 3 = 7. For which of the following integers is the prime sum greater than 35 ?  ",
+        "answer_options": ["440", "512", "620", "700", "750"],
+        "correct_answer": 2,
+        "explanation_text": "A Since 440 = 2 \ufffd 2 \ufffd 2 \ufffd 5 \ufffd 11, the prime  sum of 440 is 2 + 2 + 2 + 5 + 11 = 22, which (C) 620 (D) 700 (E) 750  Arithmetic Properties of numbers A Since 440 = 2 \ufffd 2 \ufffd 2 \ufffd 5 \ufffd 11, the prime  sum of 440 is 2 + 2 + 2 + 5 + 11 = 22, which is not greater than 35.  B Since 512 = 29, the prime sum of 512 is 9(2) = 18, which is not greater than 35.  C Since 620 = 2 \ufffd 2 \ufffd 5 \ufffd 31, the prime sum of 620 is 2 + 2 + 5 + 31 = 40, which is greater than 35.  Because there can be only one correct answer, D and E need not be checked. However, for completeness,  D Since 700 = 2 \ufffd 2 \ufffd 5 \ufffd 5 \ufffd 7, the prime sum of 700 is 2 + 2 + 5 + 5 + 7 = 21, which is not greater than 35.  E Since 750 = 2 \ufffd 3 \ufffd 5 \ufffd 5 \ufffd 5, the prime sum of 750 is 2 + 3 + 5 + 5 + 5 = 20, which is not greater than 35.  The correct answer is C. ",
+        "page_num": 107
+    }, {
+        "question_number": 70,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems", " Percents"],
+        "question_text": "Each machine at a toy factory assembles a certain kind of toy at a constant rate of one toy every 3 minutes. If 40 percent of the machines at the factory are to be replaced by new machines that assemble this kind of toy at a constant rate of one toy every 2 minutes, what will be the percent increase in the number of toys assembled in one hour by all the machines at the factory, working at their constant rates?  ",
+        "answer_options": ["20%", "25%", "30%", "40%", "50%"],
+        "correct_answer": 0,
+        "explanation_text": " Let n be the total number of machines working. Currently, it takes each machine 3 minutes to assemble 1 toy, so each machine assembles 20 toys in 1 hour and the total number of toys assembled in 1 hour by all the current machines is 20n. It takes each new machine 2 minutes to assemble 1 toy, so each new machine assembles 30 toys in 1 hour. If 60% of the machines assemble 20 toys each hour and 40% assemble 30 toys each hour, then the total number of toys produced by the machines each hour is (0.60n)(20) + (0.40n)(30) = 24n. The percent increase in hourly production is 24n - 20n = 1 or 20%.  20n 5  The correct answer is A. ",
+        "page_num": 107
+    }, {
+        "question_number": 71,
+        "question_type": "Algebra",
+        "question_subtypes": ["Percents"],
+        "question_text": "When a subscription to a new magazine was purchased for m months, the publisher offered a discount of 75 percent off the regular monthly price of the magazine. If the total value of the discount was equivalent to buying the magazine at its regular monthly price for 27 months, what was the value of m ? ",
+        "answer_options": ["18", "24", "30", "36", "48"],
+        "correct_answer": 3,
+        "explanation_text": "Let P represent the regular monthly price of the magazine. The discounted monthly price is then 0.75P. Paying this price for m months is equivalent to paying the regular price for 27 months. Therefore, 0.75mP = 27P, and so  27 27 months. Therefore, 0.75mP = 27P, and so 0.75m = 27. It follows that m = 27 = 36.  0.75 The correct answer is D. ",
+        "page_num": 107
+    }, {
+        "question_number": 72,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations with integers"],
+        "question_text": "At a garage sale, all of the prices of the items sold were different. If the price of a radio sold at the garage sale was both the 15th highest price and the 20th lowest price among the prices of the items sold, how many items were sold at the garage sale?  ",
+        "answer_options": ["33", "34", "35", "36", "37"],
+        "correct_answer": 1,
+        "explanation_text": "If the price of the radio was the 15th highest price, there were 14 items that sold for prices higher than the price of the radio. If the price of the radio was the 20th lowest price, there were 19 items that sold for prices lower than the price of the radio. Therefore, the total number of items sold is 14 + 1 + 19 = 34. The correct answer is B. ",
+        "page_num": 108
+    }, {
+        "question_number": 73,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations with fractions"],
+        "question_text": "Half of a large pizza is cut into 4 equal-sized pieces, and the other half is cut into 6 equal-sized pieces. If a person were to eat 1 of the larger pieces and 2 of the smaller pieces, what fraction of the pizza would remain uneaten? ",
+        "answer_options": ["5", "13", "7", "2", "17"],
+        "correct_answer": 4,
+        "explanation_text": " Each of the 4 equal-sized pieces represents 1 of 8  the whole pizza since each slice is 1 of 1 of the 42  pizza. Each of the 6 equal-sized pieces represents 1 of the whole pizza since each slice is 1 of 1 12                                                               62  of the pizza. The fraction of the pizza remaining  after a person eats one of the larger pieces and  2   of  the     smaller     pieces  is  1  \ufffd    1  +  2    1       = 8          12  1   \ufffd     1  +  1     =  1  \ufffd  6+8  =   1  \ufffd  7     =    17 . 8     6               48            24         24  The correct answer is E. ",
+        "page_num": 108
+    }, {
+        "question_number": 74,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations with fractions"],
+        "question_text": "If  a  =  1  +  1  +   1    +  1   and  b  =  1  +  41 a,  then  what  is 4     16       64 the value of a \ufffd b ?  ",
+        "answer_options": ["\ufffd 85", "\ufffd 1", "\ufffd 1", "125", "126596"],
+        "correct_answer": 1,
+        "explanation_text": " Given that a = 1 + 1 + 1 + 1 , it follows that 4 16 64  1 a = 1 + 1 + 1 + 1 and so b = 4 4 16 64 256  1 + 1 + 1 + 1 + 1 . Then a \ufffd b = 4 16 64 256  1  +  1  +  1   +  1    \ufffd    1  +  1  +  1   +  1   +   1    = 4     16     64              4     16     64     256  \ufffd1. 256  The correct answer is B. ",
+        "page_num": 109
+    }, {
+        "question_number": 75,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "In a certain learning experiment, each participant had three trials and was assigned, for each trial, a score of either \ufffd2, \ufffd1, 0, 1, or 2. The participant's final score consisted of the sum of the first trial score, 2 times the second trial score, and 3 times the third trial score. If Anne received scores of 1 and \ufffd1 for her first two trials, not necessarily in that order, which of the following could NOT be her final score?  ",
+        "answer_options": ["\ufffd4", "\ufffd2", "1", "5", "6"],
+        "correct_answer": 4,
+        "explanation_text": " If x represents Anne's score on the third trial, then Anne's final score is either 1 + 2(\ufffd1) + 3x = 3x \ufffd 1 or \ufffd1 + 2(1) + 3x = 3x + 1, where x can have the value \ufffd2, \ufffd1, 0, 1, or 2. The following table shows Anne's final score for each possible value of x.  x 3x \ufffd 1 3x + 1  \ufffd2 \ufffd7  \ufffd5  \ufffd1 \ufffd4  \ufffd2  0 \ufffd1   1 1 2                       4  2 5                       7  Among the answer choices, the only one not found in the table is 6.  The correct answer is E. ",
+        "page_num": 109
+    }, {
+        "question_number": 76,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations with integers"],
+        "question_text": "For all positive integers m and v, the expression m  v represents the remainder when m is divided by v. What is the value of ((98  33)  17) - (98  (33  17)) ?  ",
+        "answer_options": ["-10", "-2", "8", "13", "17"],
+        "correct_answer": 3,
+        "explanation_text": "First, for ((98  33)  17), determine 98  33, which equals 32, since 32 is the remainder when 98 is divided by 33 (98 = 2(33) + 32). Then, determine 32  17, which equals 15, since 15 is the remainder when 32 is divided by 17 (32 = 1(17) + 15). Thus, ((98  33)  17) = 15.   Next, for (98  (33  17)), determine 33  17, which equals 16, since 16 is the remainder when 33 is divided by 17 (33 = 1(17) + 16). Then, determine 98  16, which equals 2, since 2 is the remainder when 98 is divided by 16 (98 = 6(16) + 2). Thus, (98  (33  17)) = 2.  Finally, ((98  33)  17 - (98  (33  17)) = 15 - 2 = 13.  The correct answer is D. ",
+        "page_num": 109
+    }, {
+        "question_number": 77,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Interpretation of graphs"],
+        "question_text": "The chart above shows year-end values for Darnella's investments. For just the stocks, what was the increase in value from year-end 2000 to year-end 2003 ?  ",
+        "answer_options": ["$1,000", "$2,000", "$3,000", "$4,000", "$5,000"],
+        "correct_answer": 1,
+        "explanation_text": "From the graph, the year-end 2000 value for From the graph, the year-end 2000 value for stocks is 9,000 - 6,000 = 3,000 and the year-end 2003 value for stocks is 10,000 - 5,000 = 5,000. Therefore, for just the stocks, the increase in value from year-end 2000 to year-end 2003 is 5,000 - 3,000 = 2,000. The correct answer is B. ",
+        "page_num": 109
+    }, {
+        "question_number": 78,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations with fractions"],
+        "question_text": "If the sum of the reciprocals of two consecutive odd integers is 12, then the greater of the two integers is 35 ",
+        "answer_options": ["3", "5", "7", "9", "11"],
+        "correct_answer": 2,
+        "explanation_text": " The sum of the reciprocals of 2 integers, a and b,  is 1 + 1 = a + b . Therefore, since 12 is the sum of a b ab  35  the reciprocals of 2 consecutive odd integers, the  integers must be such that their sum is a multiple  of 12 and their product is the same multiple of 35  so that the fraction reduces to 12 . Considering 35  the simplest case where a + b = 12 and ab = 35,  it is easy to see that the integers are 5 and 7  since 5 and 7 are the only factors of 35 that are  consecutive odd integers. The larger of these is 7.  Algebraically, if a is the greater of the two integers, then b = a \ufffd 2 and a + (a - 2) = 12 a(a - 2) 35  2a - 2 = 12 a(a - 2) 35 35(2a \ufffd 2) = 12a(a \ufffd 2) 70a \ufffd 70 = 12a2 \ufffd 24a  0 = 12a2 \ufffd 94a + 70 0 = 2(6a \ufffd 5)(a \ufffd 7) Thus, 6a \ufffd 5 = 0, so a = 5, or a \ufffd 7 = 0, so a = 7.  6 Since a must be an integer, it follows that a = 7.  The correct answer is C. ",
+        "page_num": 110
+    }, {
+        "question_number": 79,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on integers"],
+        "question_text": "What is the sum of the odd integers from 35 to 85, inclusive?  ",
+        "answer_options": ["1,560", "1,500", "1,240", "1,120", "1,100"],
+        "correct_answer": 0,
+        "explanation_text": " The odd integers from 35 through 85 form an arithmetic sequence with first term 35 and each subsequent term 2 more than the preceding term. Thus the sum 35 + 37 + 39 + ... + 85 can be found as follows: found as follows:  1st term  35 = 35     + 1(2) 2nd term  37 = 35     + 2(2) 3rd term  39 = 35     + 3(2) 4th term  41 = 35     ...... ...       ... ......  26th term 85 = 35 + 25(2)  Sum = 35(26) + (1 + 2 + 3 + ... + 25)(2)  = 35(26) + (25)(26) (2) 2  See note below = 910 + 650 = 1,560  Note that if s = 1 + 2 + 3 + ... + 25, then 2s = (1 + 2 + 3 + ... + 25) + (25 + 24 + 23 + ... + 1), and so 2s = (1 + 25) + (2 + 24) + (3 + 23) + ... + (25 + 1) = (25)(26). Therefore, s = (25)(26) . 2  Alternatively, to determine the number of odd integers from 35 to 85, inclusive, consider that 3 of them (35, 37, and 39) have tens digit 3. Half of the integers with tens digit 4 are odd, so 5 of the odd integers between 35 and 85, inclusive, have tens digit 4. Similarly, 5 of the odd integers between 35 and 85, inclusive, have tens digit 5; 5 have tens digit 6; and 5 have tens digit 7. Finally, 3 have tens digit 8 (81, 83, and 85), and so the number of odd integers between 35 and 85, inclusive, is 3 + 5 + 5 + 5 + 5 + 3 = 26. Now, let S = 35 + 37 + 39 + ... + 85. Then, S = 85 + 83 + 81 + ... + 35, and it follows that 2S = (35 + 85) + (37 + 83) + (39 + 81) + ... + (85 + 35) = (120)(26). Thus, S = 35 + 37 + 39 + ... + 85 = (120)(26) = 1,560.  2  The correct answer is A. ",
+        "page_num": 110
+    }, {
+        "question_number": 80,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Sequences"],
+        "question_text": "In a certain sequence, each term after the first term is one-half the previous term. If the tenth term of the sequence is between 0.0001 and 0.001, then the twelfth term of the sequence is between  ",
+        "answer_options": ["0.0025 and 0.025", "0.00025 and 0.0025", "0.000025 and 0.00025", "0.0000025 and 0.000025", "0.00000025 and 0.0000025"],
+        "correct_answer": 2,
+        "explanation_text": " Let an represent the nth term of the sequence. It is given that each term after the first term is 1 the  2 previous term and that 0.0001 < a10 < 0.001.  Then  for  a11 ,  0.0001  <  a11  <  0.001  , 2                 2  or 0.00005 < a11 < 0.0005. For a12,  0.00005    <  a12  <  0.0005  ,  or 2                    2  0.000025 < a12 < 0.00025. Thus, the twelfth term  of the sequence is between 0.000025 and 0.00025.  The correct answer is C. ",
+        "page_num": 111
+    }, {
+        "question_number": 81,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on integers"],
+        "question_text": "A certain drive-in movie theater has a total of 17 rows of parking spaces. There are 20 parking spaces in the first row and 21 parking spaces in the second row. In each subsequent row there are 2 more parking spaces than in the previous row. What is the total number of parking spaces in the movie theater? ",
+        "answer_options": ["412", "544", "596", "632", "692"],
+        "correct_answer": 2,
+        "explanation_text": " Row          Number of parking spaces 1st row              20 2nd row              21 3rd row              21 + 1(2) 4th row              21 + 2(2) ...                  .........  17th row     21 + 15(2)  Then, letting S represent the total number of parking spaces in the theater,  S = 20 + (16)(21) + (1 + 2 + 3 + ... + 15)(2)  =  20 + 336 + (15)(16)(2) 2  See note below  =  356 + 240 =  596  Note that if s = 1 + 2 + 3 + ... + 15, then 2s = (1 + 2 + 3 + ... + 15) + (15 + 14 + 13 + ... + 1), and so 2s = (1 + 15) + (2 + 14) + (3 + 13) + ... + (15 + 1) = (15)(16).  Therefore, s = (15)(16) . 2  The correct answer is C. ",
+        "page_num": 111
+    }, {
+        "question_number": 82,
+        "question_type": "Algebra",
+        "question_subtypes": ["Statistics"],
+        "question_text": "Ada and Paul received their scores on three tests. On the first test, Ada's score was 10 points higher than Paul's score. On the second test, Ada's score was 4 points higher than Paul's score. If Paul's average (arithmetic mean) score on the three tests was 3 points higher than Ada's average score on the three tests, then Paul's score on the third test was how many points higher than Ada's score?  ",
+        "answer_options": ["9", "14", "17", "23", "25 25"],
+        "correct_answer": 3,
+        "explanation_text": " Let a1, a2, and a3 be Ada's scores on the first,  second, and third tests, respectively, and let p1,  p2, and p3 be Paul's scores on the first, second,  and third tests, respectively. Then, Ada's average  score is a1 + a2 + a3 and Paul's average score 3  is p1 + p2 + p3 . But, Paul's average score is 3  3 points higher than Ada's average score, so  p1 + p2 + p3 = a1 + a2 + a3 + 3. Also, it is given that 3                   3  a1 = p1 + 10 and a2 = p2 + 4, so by substitution,  p1 + p2 + p3 = ( p1 + 10) + ( p2 + 4) + a3 + 3. Then, 3                      3 3       3  a1 = p1 + 10 and a2 = p2 + 4, so by substitution,  p1 + p2 + p3 = ( p1 + 10) + ( p2 + 4) + a3 + 3. Then, 3                    3  p1 + p2 + p3 = ( p1 + 10) + ( p2 + 4) + a3 + 9 and so  p3 = a3 + 23. On the third test, Paul's score was  23 points higher than Ada's score.  The correct answer is D. ",
+        "page_num": 111
+    }, {
+        "question_number": 83,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents"],
+        "question_text": "The price of a certain stock increased by 0.25 of 1 percent on a certain day. By what fraction did the price of the stock increase that day?  ",
+        "answer_options": ["1 00", "1", "1", "1", "1"],
+        "correct_answer": 1,
+        "explanation_text": "It is given that the price of a certain stock It is given that the price of a certain stock  increased by 0.25 of 1 percent on a certain day.  This is equivalent to an increase of 1 of 1 , 4 100  which  is    1       1     ,  and    1       1     =   1   . 4      100              4      100       400  The correct answer is B. ",
+        "page_num": 112
+    }, {
+        "question_number": 84,
+        "question_type": "",
+        "question_subtypes": [],
+        "question_text": "Three business partners, Q, R, and S, agree to divide their total profit for a certain year in the ratios 2:5:8, respectively. If Q's share was $4,000, what was the total profit of the business partners for the year?  ",
+        "answer_options": ["$26,000", "$30,000", "$52,000 $60,000 $300,000 ebra Applied problems ting T represent the total profit and using given ratios, Q's share is 2 T = 2 T . 5 + 8 15 ce Q's share is $4,000, then 2 T = 4, 000 and 15 (4, 000) = 30, 000. correct answer is B."],
+        "correct_answer": 1,
+        "explanation_text": "",
+        "page_num": 113
+    }, {
+        "question_number": 85,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "For each trip, a taxicab company charges $4.25 for the first mile and $2.65 for each additional mile or fraction thereof. If the total charge for a certain trip was $62.55, how many miles at most was the trip?  ",
+        "answer_options": ["21", "22", "23", "24", "25"],
+        "correct_answer": 2,
+        "explanation_text": " Subtracting the charge for the first mile leaves a charge of $62.55 \ufffd $4.25 = $58.30 for the miles after the first mile. Divide this amount by $2.65 to find the number of miles to which $58.30 corresponds: 58.30 = 22 miles. Therefore, the  2.65 total number of miles is at most 1 (the first mile) added to 22 (the number of miles after the first mile), which equals 23.  The correct answer is C. ",
+        "page_num": 113
+    }, {
+        "question_number": 86,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "When 24 is divided by the positive integer n, the remainder is 4. Which of the following statements about n must be true?  ",
+        "answer_options": ["III only", "I and II only", "I and III only", "II and III only", "I, II, and III"],
+        "correct_answer": 3,
+        "explanation_text": "Since the remainder is 4 when 24 is divided by Arithmetic Properties of numbers  Since the remainder is 4 when 24 is divided by the positive integer n and the remainder must be less than the divisor, it follows that 24 = qn + 4 for some positive integer q and 4 < n, or qn = 20 and n > 4. It follows that n = 5, or n = 10, or n = 20 since these are the only factors of 20 that exceed 4.  I. n is not necessarily even. For example, n could be 5.  II. n is necessarily a multiple of 5 since the value of n is either 5, 10, or 20.  III. n is a factor of 20 since 20 = qn for some positive integer q.  The correct answer is D. ",
+        "page_num": 113
+    }, {
+        "question_number": 87,
+        "question_type": "Geometry",
+        "question_subtypes": ["Simple coordinate geometry"],
+        "question_text": "In the rectangular coordinate system above, the area of RST is  ",
+        "answer_options": ["bc", "b(c - 1)", "c(b - 1)", "a(c - 1)", "c(a - 1)"],
+        "correct_answer": 1,
+        "explanation_text": " Letting RT be the base of the triangle, since RT = c - 1, the length of the base of RST is c - 1. The altitude to the base RT is a perpendicular dropped from S to the x-axis. The length of this perpendicular is b - 0 = b. Using the formula for the area, A, of a triangle, A = 1 bh,  2 where b is the length of the base and h is the  length of the altitude to that base, the area of RST is 1 (c - 1)(b)or b(c - 1). 2                         2  The correct answer is B. ",
+        "page_num": 113
+    }, {
+        "question_number": 88,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Place value"],
+        "question_text": "What is the thousandths digit in the decimal equivalent of 53 ? 5,000  ",
+        "answer_options": ["0", "1", "3", "5", "6"],
+        "correct_answer": 0,
+        "explanation_text": "53 = 106 = 0.0106 and the thousandths  5, 000 10, 000 Arithmetic Place value 53 = 106 = 0.0106 and the thousandths  5, 000 10, 000 digit is 0.  The correct answer is A. ",
+        "page_num": 113
+    }, {
+        "question_number": 89,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "The product of 3,305 and the 1-digit integer x is a 5-digit integer. The units (ones) digit of the product is 5 and the hundreds digit is y. If A is the set of all possible values of x and B is the set of all possible values of y, then which of the following gives the members of A and B ?  A                                    B ",
+        "answer_options": ["{1, 3, 5, 7, 9}  {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}", "{1, 3, 5, 7, 9}  {1, 3, 5, 7, 9}", "{3, 5, 7, 9}     {1, 5, 7, 9}", "{5, 7, 9}        {1, 5, 7}", "{5, 7, 9}        {1, 5, 9}"],
+        "correct_answer": 3,
+        "explanation_text": " Since the products of 3,305 and 1, 3,305 and 2, and 3,305 and 3 are the 4-digit integers 3,305, 6,610, and 9,915, respectively, it follows that x must be among the 1-digit integers 4, 5, 6, 7, 8, and 9. Also, since the units digit of the product of 3,305 and x is 5, it follows that x cannot be 4 (product has units digit 0), 6 (product has units digit 0), or 8 (product has units digit 0). Therefore, A = {5, 7, 9}. The possibilities for y will be the hundreds digits of the products (3,305)(5) = 16,525, (3,305)(7) = 23,135, and (3,305)(9) = 29,745. Thus, y can be 5, 1, or 7, and so B = {1, 5, 7}.  The correct answer is D. ",
+        "page_num": 114
+    }, {
+        "question_number": 90,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Exponents", " Operations with"],
+        "question_text": "What  is  the  largest  integer  n  such  that  1   > 0.01 ? 2n  ",
+        "answer_options": ["5", "6", "7", "10", "51"],
+        "correct_answer": 1,
+        "explanation_text": " rational numbers  Since     1    > 0.01   is equivalent to 2n < 100, find 2n the largest integer n such that 2n < 100. Using  trial and error, 26 = 64 and 64 < 100, but 27 = 128  and 128 > 100. Therefore, 6 is the largest integer  such that      1   > 0.01.  n and 128 > 100. Therefore, 6 is the largest integer  such  that   1   > 0.01. 2n  The correct answer is B. ",
+        "page_num": 115
+    }, {
+        "question_number": 91,
+        "question_type": "Algebra",
+        "question_subtypes": ["Inequalities"],
+        "question_text": "If x and y are integers such that 2 < x  8 and 1   x 2 < y  9, what is the maximum value of  x-  y       ?  ",
+        "answer_options": ["-381", "0", "1", "5", "2"],
+        "correct_answer": 1,
+        "explanation_text": " Because x and y are both positive, the maximum  value of  1  -   a1xny diwsthmilelaovxcaimcluuuermowfhwexyhneitnshtmehvienavliumaeluuoemfo.1fx x  is maximum  The value of     x  x x                         x  is x is minimum or when x = 3. The value of  y  minimum when the value of x is minimum  (or when x = 3) and the value of y is maximum  (or when y = 9). Thus, the maximum value of  1 - x is 1 - 3 = 0. xy 39  The correct answer is B. ",
+        "page_num": 115
+    }, {
+        "question_number": 92,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "Items that are purchased together at a certain discount store are priced at $3 for the first item purchased and $1 for each additional item purchased. What is the maximum number of items that could be purchased together for a total price that is less than $30 ?  ",
+        "answer_options": ["25", "26", "27", "28", "29"],
+        "correct_answer": 2,
+        "explanation_text": "After the first item is purchased, $29.99 \ufffd $3.00 = $26.99 remains to purchase the additional items. Since the price for each of the additional items is $1.00, a maximum of 26 additional items could be purchased. Therefore, a maximum of 1 + 26 = 27 items could be purchased for less than $30.00.  The correct answer is C. ",
+        "page_num": 115
+    }, {
+        "question_number": 93,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Statistics"],
+        "question_text": "The average (arithmetic mean) length per film for a group of 21 films is t minutes. If a film that runs for 66 minutes is removed from the group and replaced by one that runs for 52 minutes, what is the average length per film, in minutes, for the new group of films, in terms of t ?  ",
+        "answer_options": ["t  +  2", "t  -  2", "21t + 14", "t  +  3", "t  -  3"],
+        "correct_answer": 1,
+        "explanation_text": " Let S denote the sum of the lengths, in minutes, of the 21 films in the original group. Since the average length is t minutes, it follows that S = t.  21  If a 66-minute film is replaced by a 52-minute  film, then the sum of the lengths of the 21 films  in the resulting group is S - 66 + 52 = S - 14.  Therefore, the average length of the resulting  21 films is S - 14 = S - 14 = t - 2 . 21 21 21                  3  The correct answer is B. ",
+        "page_num": 115
+    }, {
+        "question_number": 94,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "A garden center sells a certain grass seed in 5-pound bags at $13.85 per bag, 10-pound bags at $20.43 per bag, and 25-pound bags at $32.25 per bag. If a customer is to buy at least 65 pounds of the grass seed, but no more than 80 pounds, what is the least possible cost of the grass seed that the customer will buy?  ",
+        "answer_options": ["$94.03", "$96.75", "$98.78", "$102.07", "$105.36"],
+        "correct_answer": 1,
+        "explanation_text": "Let x represent the amount of grass seed, in pounds, the customer is to buy. It follows that 65  x  80. Since the grass seed is available in only 5-pound, 10-pound, and 25-pound bags, then the customer must buy either 65, 70, 75, or 80 pounds of grass seed. Because the seed is more expensive per pound for smaller bags, the customer should minimize the number of the smaller bags and maximize the number of 25-pound bags to incur the least possible cost for the grass seed. The possible purchases are given in the table below.  Number Number Number  of      of                of  25-pound 10-pound 5-pound       Total cost x bags  bags              bags  65 2    1                 1 $98.78  70 2    2                 0 $105.36  75 3    0                 0 $96.75  80 3    0                 1 $110.60  The least possible cost is then 3($32.25) = $96.75.  The correct answer is B. ",
+        "page_num": 115
+    }, {
+        "question_number": 95,
+        "question_type": "Algebra",
+        "question_subtypes": ["Absolute value"],
+        "question_text": "If x = -|w|, which of the following must be true?  ",
+        "answer_options": ["x = -w", "x = w", "x2 = w", "x2 = w2", "x3 = w3"],
+        "correct_answer": 3,
+        "explanation_text": "Squaring both sides of x = -|w| gives x2 = (-|w|)2, or x2 = |w|2 = w2. Alternatively, if (x, w) is equal to either of the pairs (-1,1) or (-1,-1), then x = -|w| is true. However, each of the answer choices except x2 = w2 is false for at least one of these two pairs. The correct answer is D. ",
+        "page_num": 115
+    }, {
+        "question_number": 96,
+        "question_type": "Algebra",
+        "question_subtypes": [" Arithmetic Substitution", " Operations"],
+        "question_text": "Which of the following lines in the xy-plane does not contain any point with integers as both coordinates? ",
+        "answer_options": ["y = x y = x", "y  =  x  +  1", "y = x + 5", "y  =  1x", "y  =  1  x  +  5"],
+        "correct_answer": 1,
+        "explanation_text": "with rational numbers  A If x is an integer, y is an integer since y = x Thus, the line given by y = x contains points with integers as both coordinates.  B If x is an integer, then if y were an integer, then y - x would be an integer. But, y- x = 1 and 1 is NOT an integer. Since 22 assuming that y is an integer leads to a  contradiction, then y cannot be an integer and the line given by y = x + 1 does NOT contain  2 any points with integers as both coordinates.  Since there can be only one correct answer, the lines in C, D, and E need not be checked, but for completeness,  C If x is an integer, x + 5 is an integer and so y is an integer since y = x + 5. Thus, the line given by y = x + 5 contains points with integers as both coordinates.  116  D If x is an even integer, 1 x is an integer and 2 so  y  is  an     integer     since  y  =  1  x.   Thus,  the  line   given      by    y  =  1  x         2   points     with contains 2 integers as both coordinates.  E If x is an even integer, 1 x is an integer and 2 1  x   +  5   is  also  an    integer   so  y  is  an  integer  2         y   =   1  x  +  5. Thus, the     line   given  by since 2 y  =   1   x  +   5  contains       points  with   integers    as 2        y  =  1  x  +  5. Thus, the  line  given  by since 2 y  =  1  x  +  5  contains  points    with  integers   as  2 both coordinates.  The correct answer is B. ",
+        "page_num": 116
+    }, {
+        "question_number": 97,
+        "question_type": "Algebra",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "One inlet pipe fills an empty tank in 5 hours. A second  inlet pipe fills the same tank in 3 hours. If both pipes  are used together, how long will it take to fill 2 of the 3 tank?  ",
+        "answer_options": ["8   hr", "3   hr", "5 hr", "15 hr", "8 hr"],
+        "correct_answer": 2,
+        "explanation_text": " If the first pipe fills the tank in 5 hours, then If the first pipe fills the tank in 5 hours, then  it fills 1 of the tank in one hour. If the second 5 pipe  fills   the    tank      in  3  hours, then  it  fills      1  of  3  the tank in one hour. Together, the two pipes fill  1 + 1 = 8 of the tank in one hour, which means 5 3 15 they fill the whole tank in               15  hours. To fill           2  8                            3  of the tank at this constant rate would then take  2  15      =    5    hours. 3  8            4  The correct answer is C. ",
+        "page_num": 117
+    }, {
+        "question_number": 98,
+        "question_type": "Algebra",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "For a light that has an intensity of 60 candles at its  source, the intensity in candles, S, of the light at a  point d feet from the source is given by the formula  S  =  60k  ,  where  k  is  a  constant.  If  the  intensity  of  the d2  light is 30 candles at a distance of 2 feet from the  source, what is the intensity of the light at a distance  of 20 feet from the source?  ",
+        "answer_options": ["3 candle", "1 candle", "1 candle", "2 candles", "3 candles"],
+        "correct_answer": 0,
+        "explanation_text": " First, solve the equation for the constant k using the values where both the intensity (S) and distance (d) are known.  S   =  60k d2  30  =  60k     substitute S = 30 candles and 22      d = 2 feet  120 = 60k      solve for k 2=k  Then, with this known value of k, solve the equation for S where only the distance (d) is known.  S  =  60k d2 S  =  60(2)  substitute k = 2 and d = 20 feet 202  S = 120 = 3 400 10  The correct answer is A. ",
+        "page_num": 117
+    }, {
+        "question_number": 99,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents", " Estimation"],
+        "question_text": "A certain financial institution reported that its assets totaled $2,377,366.30 on a certain day. Of this amount, $31,724.54 was held in cash. Approximately what percent of the reported assets was held in cash on that day? ",
+        "answer_options": ["0.00013%", "0.0013%", "0.013%", "0.13%", "1.3%"],
+        "correct_answer": 4,
+        "explanation_text": " The requested percent can be estimated by converting the values into scientific notation.  31, 724.54         value as fraction 2, 377, 366.30  = 3.172454 \ufffd 104        convert to scientific 2.37736630 \ufffd 106     notation  =   3.172454   \ufffd   104  arithmetic property of 2.37736630      106  fractions  = 3.172454 \ufffd 10-2 subtract exponents 2.37736630  3 \ufffd 10\ufffd2               approximate 2 convert to decimal fraction = 1.5 \ufffd 10\ufffd2            multiply = 0.015                 convert to percent = 1.5% A more detailed computation would show that 1.3% is a better approximation. However, in order to select the best value from the values given as answer choices, the above computation is sufficient. The correct answer is E. ",
+        "page_num": 117
+    }, {
+        "question_number": 100,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Place value"],
+        "question_text": "In the correctly worked addition problem shown, where  the sum of the two-digit positive integers AB and BA is the three-digit integer AAC, and A, B, and C are different digits, what is the units digit of the integer AAC ?  ",
+        "answer_options": ["9", "6", "3", "2", "0"],
+        "correct_answer": 4,
+        "explanation_text": "Determine the value of C.  It is given that (10A + B) + (10B + A) = 100A + 10A + C or 11A + 11B = 110A + C. Thus, 11B - 99A = C, or 11(B - 9A) = C. Therefore, C is divisible by 11, and 0 is the only digit that is divisible by 11.  The correct answer is E. ",
+        "page_num": 118
+    }, {
+        "question_number": 101,
+        "question_type": "Algebra",
+        "question_subtypes": ["Inequalities"],
+        "question_text": "Given the inequalities above, which of the following CANNOT be the value of r ? ",
+        "answer_options": ["-20", "-5", "0", "5", "20"],
+        "correct_answer": 4,
+        "explanation_text": "Since |s|  5, it follows that -5  s  5. Therefore, -20  4s  20, and hence -15  4s + 5  25. Since 3r  4s + 5 (given) and 4s +5  25 (end of previous sentence), it follows that 3r  25. Among the answer choices, 3r  25 is false only for r = 20. The correct answer is E. ",
+        "page_num": 118
+    }, {
+        "question_number": 102,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "If m is an even integer, v is an odd integer, and m > v > 0, which of the following represents the number of even integers less than m and greater than v ?  ",
+        "answer_options": ["m-   v  -1", "m - v - 1", "m - v", "m \ufffd v \ufffd 1", "m \ufffd v"],
+        "correct_answer": 1,
+        "explanation_text": " Since there is only one correct answer, one method of solving the problem is to choose values for m and v and determine which of the expressions gives the correct number for these values. For example, if m = 6 and v = 1, then there are 2 even integers less than 6 and greater than 1, namely the even integers 2 and 4. As the table below shows, m - v - 1 is the only expression  2 given that equals 2. m - v \ufffd 1 = 1.5 2  m - v -1 =2 2  m - v = 2.5 2  m \ufffd v \ufffd 1=4 m \ufffd v=5  To solve this problem it is not necessary to show that m - v - 1 always gives the correct number  2 of even integers. However, one way this can be done is by the following method, first shown for a specific example and then shown in general. For the specific example, suppose v = 15 and m = 144. Then a list--call it the first list--of the even integers greater than v and less than m is 16, 18, 20, ..., 140, 142. Now subtract 14 (chosen so that the second list will begin with 2) from each of the integers in the first list to form a second list, which has the same number of integers as the first list: 2, 4, 6, ..., 128. Finally, divide each of the first list: 2, 4, 6, ..., 128. Finally, divide each of the integers in the second list (all of which are even)  by 2 to form a third list, which also has the same number of integers as the first list: 1, 2, 3, ..., 64.  Since the number of integers in the third list is 64, it follows that the number of integers in the  first list is 64. For the general situation, the first list is the following list of even integers: v + 1, v + 3, v + 5, ..., m \ufffd 4, m \ufffd 2. Now subtract the even integer v \ufffd 1 from (i.e., add \ufffdv + 1 to) each of the integers in the first list to obtain the second list: 2, 4, 6, ..., m \ufffd v \ufffd 3, m \ufffd v \ufffd 1. (Note, for example, that m \ufffd 4 \ufffd (v \ufffd 1) = m \ufffd v \ufffd 3.) Finally, divide each of the integers (all of which are even) in the second list by 2 to obtain the  third list: 1, 2, 3, ..., m - v - 3, m - v - 1. 2  2  Since the number of integers in the third list is  m - v - 1, it follows that the number of integers 2  in the first list is m - v - 1 . 2  The correct answer is B. ",
+        "page_num": 119
+    }, {
+        "question_number": 103,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "A positive integer is divisible by 9 if and only if the sum of its digits is divisible by 9. If n is a positive integer, for which of the following values of k is 25 \ufffd 10n + k \ufffd 102n divisible by 9 ?  ",
+        "answer_options": ["9", "16", "23", "35", "47"],
+        "correct_answer": 4,
+        "explanation_text": "Since n can be any positive integer, let n = 2. Then 25 \ufffd 10n = 2,500, so its digits consist of the digits 2 and 5 followed by two digits of 0. Also, k \ufffd 102n = k \ufffd 10,000, so its digits consist of the k \ufffd 10 = k \ufffd 10,000, so its digits consist of the digits of k followed by four digits of 0. Therefore, the digits of (25 \ufffd 10n) + (k \ufffd 102n) consist of the digits of k followed by the digits 2 and 5, followed by two digits of 0. The table below shows this for n = 2 and k = 35:  25 \ufffd 10n = 2,500 35 \ufffd 102n = 350,000 (25 \ufffd 10n) + (35 \ufffd 102n) = 352,500    Thus, when n = 2, the sum of the digits of (25 \ufffd 10n) + (k \ufffd 102n) will be 2 + 5 = 7 plus the sum of the digits of k. Of the answer choices, this sum of digits is divisible by 9 only for k = 47, which gives 2 + 5 + 4 + 7 = 18. It can also be verified that, for each positive integer n, the only such answer choice is k = 47, although this additional verification is not necessary to obtain the correct answer. The correct answer is E. ",
+        "page_num": 119
+    }, {
+        "question_number": 104,
+        "question_type": "Geometry",
+        "question_subtypes": ["Rectangles", " Perimeter"],
+        "question_text": "The perimeter of rectangle A is 200 meters. The length of rectangle B is 10 meters less than the length of rectangle A and the width of rectangle B is 10 meters more than the width of rectangle A. If rectangle B is a square, what is the width, in meters, of rectangle A ?  ",
+        "answer_options": ["10", "20", "40", "50", "60"],
+        "correct_answer": 2,
+        "explanation_text": "Let L meters and W meters be the length and width, respectively, of rectangle A. Then (L \ufffd 10) meters and (W + 10) meters are the length and width, respectively, of rectangle B. Since the perimeter of rectangle A is 200 meters, it follows that 2L + 2W = 200, or L + W = 100. Since rectangle B is a square, it follows that L \ufffd 10 = W + 10, or L \ufffd W = 20. Adding the equations W + 10, or L \ufffd W = 20. Adding the equations L + W = 100 and L \ufffd W = 20 gives 2L = 120, or L = 60. From L \ufffd W = 20 and L = 60, it follows that W = 40, and so the width of rectangle A is 40 meters. The correct answer is C. ",
+        "page_num": 119
+    }, {
+        "question_number": 105,
+        "question_type": "Algebra",
+        "question_subtypes": ["Inequalities", " Absolute value"],
+        "question_text": "On the number line, the shaded interval is the graph of which of the following inequalities?  ",
+        "answer_options": ["|x|  4", "|x|  8", "|x - 2|  4", "|x - 2|  6", "|x + 2|  6"],
+        "correct_answer": 4,
+        "explanation_text": "The midpoint of the interval from -8 to 4, inclusive, is - 8 +4 = - 2 and the length of the  2 interval from -8 to 4, inclusive, is 4 - (-8) = 12, so the interval consists of all numbers within a distance of 12 = 6 from -2. Using an inequality  2 involving absolute values, this can be described by |x - (-2)|  6, or |x + 2|  6.  Alternatively, the inequality -8  x  4 can be written as the conjunction -8  x and x  4. Rewrite this conjunction so that the lower value, -8, and the upper value, 4, are shifted to values that have the same magnitude. This can be done by adding 2 to each side of each inequality, which gives -6  x + 2 and x + 2  6. Thus, x + 2 lies between -6 and 6, inclusive, and it follows that |x + 2|  6.  The correct answer is E. ",
+        "page_num": 120
+    }, {
+        "question_number": 106,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "Of all the students in a certain dormitory, 1 are first- 2  year students and the rest are second-year students. If 4 of the first-year students have not declared a major 5 and if the fraction of second-year students who have declared a major is 3 times the fraction of first-year students who have declared a major, what fraction of all the students in the dormitory are second-year students who have not declared a major?  ",
+        "answer_options": ["1", "1", "4", "1", "2 all the students in the dormitory are second-year dents who have not declared a major? 1 1 4 1 2"],
+        "correct_answer": 1,
+        "explanation_text": "Consider the table below in which T represents the total number of students in the dormitory.  1 Since of the students are first-year students and  2 the rest are second-year students, it follows that 1 of the students are second-year students, and so 2 the totals for the first-year and second-year columns are both 0.5T. Since 4 of the first-year students are both 0.5T. Since 4 of the first-year students 5  have not declared a major, it follows that the middle entry in the first-year column is 4 (0.5T) = 0.4T  5 and the first entry in the first-year column is  0.5T - 0.4T = 0.1T. Since the fraction of  second-year students who have declared a major  is 3 times the fraction of first-year students who  have declared a major, it follows that the first entry  in the second-year column is 3(0.1T) = 0.3T and  the second entry in the second-year column is  0.5T - 0.3T = 0.2T. Thus, the fraction of students  that are second-year students who have not  declared a major is 0.2T = 0.2 = 1 . T                  5  First- Second- year year Total  Declared major 0.1T 0.3T 0.4T  Not declared major 0.4T 0.2T 0.6T  Total     0.5T 0.5T T  The correct answer is B. ",
+        "page_num": 120
+    }, {
+        "question_number": 107,
+        "question_type": "Algebra",
+        "question_subtypes": ["Ratio and proportion"],
+        "question_text": "If the average (arithmetic mean) of x, y, and z is 7x and x  0, what is the ratio of x to the sum of y and z ?  ",
+        "answer_options": ["1:21", "1:20", "1:6", "6:1", "20:1"],
+        "correct_answer": 1,
+        "explanation_text": " Given that the average of x, y, and z is 7x, it  follows that x + y + z = 7x, or x + y + z = 21x, 3  or y + z = 20x. Dividing both sides of the last  equation by 20(y + z) gives    1         =   x 20           y+ z , so the  ratio of x to the sum of y and z is 1:20.  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 108,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "(-1.5)(1.2) -   (4.5)(0.4)  = 30  ",
+        "answer_options": ["\ufffd1.2", "\ufffd0.12", "0", "0.12", "1.2"],
+        "correct_answer": 1,
+        "explanation_text": "Simplify the expression.  (-1.5)(1.2) -   (4.5)(0.4)  =  -1.80 -   1.80  =  -3.60  =  -0.12 30                       30             30 The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 109,
+        "question_type": "Algebra",
+        "question_subtypes": ["Simple coordinate geometry"],
+        "question_text": "In the coordinate plane, line k passes through the origin and has slope 2. If points (3,y) and (x,4) are on line k, then x + y =  ",
+        "answer_options": ["3.5", "7", "8", "10", "14"],
+        "correct_answer": 2,
+        "explanation_text": "Since line k has slope 2 and passes through the origin, the equation of line k is y = 2x. If the point (3,y) is on line k, then y = 2(3) = 6. If the point (x,4) is on line k, then 4 = 2x and so x = 2. Therefore, x + y = 6 + 2 = 8.  The correct answer is C. ",
+        "page_num": 121
+    }, {
+        "question_number": 110,
+        "question_type": "Algebra",
+        "question_subtypes": ["Simplifying algebraic expressions"],
+        "question_text": "If a, b, and c are constants, a > b > c, and x3 - x = (x - a)(x - b)(x - c) for all numbers x, what is the value of b ?  ",
+        "answer_options": ["\ufffd3", "\ufffd1", "0", "1", "3"],
+        "correct_answer": 2,
+        "explanation_text": "Since (x - a)(x - b)(x - c) = x3 - x = x(x2 - 1) = x(x + 1)(x - 1) = (x - 0)(x - 1)(x + 1) then a, b, and c are 0, 1, and \ufffd1 in some order. Since a > b > c, it follows that a = 1, b = 0, and c = -1.  The correct answer is C. ",
+        "page_num": 121
+    }, {
+        "question_number": 111,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents"],
+        "question_text": "Company K's earnings were $12 million last year. If this year's earnings are projected to be 150 percent greater than last year's earnings, what are Company K's projected earnings this year?  ",
+        "answer_options": ["$13.5 million", "$15 million", "$18 million", "$27 million", "$30 million"],
+        "correct_answer": 4,
+        "explanation_text": " If one quantity x is p percent greater than  another  quantity  y,   then  x  =  y  +     p    y.  Let 100  y represent last year's earnings and x represent  this year's earnings, which are projected to be  150 percent greater than last year's earnings.  Then, x =  y  +    150    y=  y + 1.5 y     = 2.5 y. Since 100  last year's earnings were $12 million, this year's  earnings are projected to be 2.5($12 million) =  $30 million.  The correct answer is E. ",
+        "page_num": 121
+    }, {
+        "question_number": 112,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Exponents"],
+        "question_text": "173 + 174 =  ",
+        "answer_options": ["177", "173(18)", "176(18)", "2(173) + 17", "2(173) - 17"],
+        "correct_answer": 1,
+        "explanation_text": "Since 173 = 173 \ufffd 1 and 174 = 173 \ufffd 17, then 173 may be factored out of each term. It follows that 173 + 174 = 173(1 + 17) = 173(18).  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 113,
+        "question_type": "Algebra",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "Jonah drove the first half of a 100-mile trip in x hours and the second half in y hours. Which of the following is equal to Jonah's average speed, in miles per hour, for the entire trip?  ",
+        "answer_options": ["50", "100", "25  +  25 y", "50  +  50 y", "100  +  100 y"],
+        "correct_answer": 1,
+        "explanation_text": " Using average speed = total distance , it follows total time  that Jonah's average speed for his entire 100-mile trip is 100 .  x+ y  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 114,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "What is the greatest number of identical bouquets that can be made out of 21 white and 91 red tulips if no flowers are to be left out? (Two bouquets are identical whenever the number of red tulips in the two bouquets is equal and the number of white tulips in the two bouquets is equal.) ",
+        "answer_options": ["3", "4", "5 5", "6", "7"],
+        "correct_answer": 4,
+        "explanation_text": "Since the question asks for the greatest number of bouquets that can be made using all of the flowers, the number of bouquets will need to be the greatest common factor of 21 and 91. Since 21 = (3)(7) and 91 = (7)(13), the greatest common factor of 21 and 91 is 7. Therefore, 7 bouquets can be made, each with 3 white tulips and 13 red tulips.  The correct answer is E. ",
+        "page_num": 121
+    }, {
+        "question_number": 115,
+        "question_type": "Geometry",
+        "question_subtypes": ["Coordinate geometry"],
+        "question_text": "In the xy-plane, the points (c,d), (c,\ufffdd), and (\ufffdc,\ufffdd) are three vertices of a certain square. If c < 0 and d > 0, which of the following points is in the same quadrant as the fourth vertex of the square?  ",
+        "answer_options": ["(\ufffd5,\ufffd3)", "(\ufffd5,3)", "(5,\ufffd3)", "(3,\ufffd5)", "(3,5)"],
+        "correct_answer": 4,
+        "explanation_text": " Because the points (c,d) and (c,\ufffdd) lie on the same vertical line (the line with equation x = c), one side of the square has length 2d and is vertical. Therefore, the side of the square opposite this side has length 2d, is vertical, and contains the vertex (\ufffdc,\ufffdd). From this it follows that the remaining vertex is (\ufffdc,d), because (\ufffdc,d) lies on the same vertical line as (\ufffdc,\ufffdd) (the line with equation x = \ufffdc) and these two vertices are a distance 2d apart. Because c < 0 and d > 0, the point (\ufffdc,d) has positive x-coordinate and positive y-coordinate. Thus, the point (\ufffdc,d) is in Quadrant I. Of the answer choices, only (3,5) is in Quadrant I.  The correct answer is E. ",
+        "page_num": 121
+    }, {
+        "question_number": 116,
+        "question_type": "Algebra",
+        "question_subtypes": ["First-degree equations"],
+        "question_text": "For all numbers s and t, the operation * is defined by s * t = (s - 1)(t + 1). If (- 2) * x = - 12, then x =  ",
+        "answer_options": ["2", "3", "5", "6", "11"],
+        "correct_answer": 1,
+        "explanation_text": "The equivalent values established for this problem are s = -2 and t = x. So, substitute \ufffd2 for s and x for t in the given equation:  -2 * x = -12 (-2 - 1)(x + 1) = -12  (-3)(x + 1) = -12 x+1= 4 x=3  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 117,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents", " Estimation"],
+        "question_text": "If the amount of federal estate tax due on an estate valued at $1.35 million is $437,000 plus 43 percent of the value of the estate in excess of $1.25 million, then the federal tax due is approximately what percent of the value of the estate?  ",
+        "answer_options": ["30%", "35%", "40%", "45%", "50%"],
+        "correct_answer": 1,
+        "explanation_text": " The amount of tax divided by the value of the estate is  [0.437 + (0.43)(1.35 - 1.25)] million value as  1.35 million         fraction  =  0.437 + (0.43)(0.1)  arithmetic  1.35  =  0.48 = 48            arithmetic 1.35 135   By long division, 48 is approximately 35.6, so 135  the closest answer choice is 35%.  Alternatively, 48 can be estimated by 135  48 = 6  6 = 1  33%, so the closest answer 136 17 18 3  choice is 35%. Note that 48 is greater than 48 , 135          136  and 6 is greater than 6 , so the correct value is 17                   18  greater than 33%, which rules out 30% being the  closest.  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 118,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents"],
+        "question_text": "If   3   = x%, then x = 104  ",
+        "answer_options": ["0.3", "0.03", "0.003", "0.0003 0.0003", "0.00003"],
+        "correct_answer": 1,
+        "explanation_text": " Given   that      3   = x%, and writing x% as    x , it 104                            100  follows that      3   =   x . Multiplying       both  sides  by 104     100  100  gives    x  =  300  =    300    =   3   =  0.03. 104     10, 000     100  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 119,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Statistics"],
+        "question_text": "If a basketball team scores an average (arithmetic mean) of x points per game for n games and then scores y points in its next game, what is the team's average score for the n + 1 games?  ",
+        "answer_options": ["nx + y 1", "x  +  n  y  1", "x  +  y", "n(x + y ) n(x + y ) 1", "x + ny 1"],
+        "correct_answer": 0,
+        "explanation_text": "Using the formula average = total points ,  number of games the average number of points per game for the first n games can be expressed as x = total points for n games . Solving this equation  n shows that the total points for n games = nx. Then, the total points for n + 1 games can be expressed as nx + y, and the average number of points for n + 1 games = nx + y .  n+1 The correct answer is A. ",
+        "page_num": 121
+    }, {
+        "question_number": 120,
+        "question_type": "Algebra",
+        "question_subtypes": ["Simplifying algebraic expressions"],
+        "question_text": "At a certain pizzeria, 1 of the pizzas sold in one week 8  were mushroom and 1 of the remaining pizzas sold 3  were pepperoni. If n of the pizzas sold were pepperoni,  how many were mushroom?  ",
+        "answer_options": ["3  n", "3  n", "7   n", "7  n", "3n"],
+        "correct_answer": 1,
+        "explanation_text": " Let t represent the total number of pizzas sold.  Then 1 t represents the number of mushroom 8 pizzas sold,  7   t    represents  the    number       of  remaining      8       sold,  and  1      7  t    =  7   t pizzas               3      8          24  represents the number of pepperoni pizzas sold.  Then   n  =   7   t,t  =  24  n,  and  1  t  =  1    24  n  =  3  n. 24          7            8        8    7         7  Thus,  3  n   mushroom        pizzas   were     sold. 7  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 121,
+        "question_type": "Algebra",
+        "question_subtypes": ["Simplifying algebraic expressions"],
+        "question_text": "What is the value of 2x2 - 2.4x - 1.7 for x = 0.7 ? ",
+        "answer_options": ["\ufffd0.72", "\ufffd1.42", "\ufffd1.98", "\ufffd2.40", "\ufffd2.89"],
+        "correct_answer": 3,
+        "explanation_text": "Work the problem by substituting x = 0.7.  2x2 - 2.4x - 1.7 = 2(0.7)2 - 2.4(0.7) - 1.7 = 2(0.49) - 1.68 - 1.7 = 0.98 - 1.68 - 1.7 = -2.40  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 122,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "What is the remainder when 324 is divided by 5 ?  ",
+        "answer_options": ["0 0", "1", "2", "3", "4"],
+        "correct_answer": 1,
+        "explanation_text": " A pattern in the units digits of the numbers 3, 32 = 9, 33 = 27, 34 = 81, 35 = 243, etc., can be found by observing that the units digit of a product of two integers is the same as the units digit of the product of the units digit of the two integers. For example, the units digit of 35 = 3 \ufffd 34 = 3 \ufffd 81 is 3 since the units digit of 3 \ufffd 1 is 3, and the units digit of 36 = 3 \ufffd 35 = 3 \ufffd 243 is 9 since the units digit of 3 \ufffd 3 is 9. From this it follows that the units digit of the powers of 3 follow the pattern 3, 9, 7, 1, 3, 9, 7, 1, etc., with a units digit of 1 for 34, 38, 312, ..., 324, .... Therefore, the units digit of 324 is 1. Thus, 324 is 1 more than a multiple of 10, and hence 324 is 1 more than a multiple of 5, and so the remainder when 324 is divided by 5 is 1.  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 123,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Measurement conversion"],
+        "question_text": "If the volume of a ball is 32,490 cubic millimeters, what is the volume of the ball in cubic centimeters? (1 millimeter = 0.1 centimeter)  ",
+        "answer_options": ["0.3249", "3.249", "32.49", "324.9", "3,249"],
+        "correct_answer": 2,
+        "explanation_text": "Since 1 mm = 0.1 cm, it follows that 1 mm3 = (0.1) 3 cm3 = 0.001 cm3. Therefore, 32,490 mm3 = (32,490)(0.001) cm3 = 32.49 cm3.  The correct answer is C. ",
+        "page_num": 121
+    }, {
+        "question_number": 124,
+        "question_type": "Algebra",
+        "question_subtypes": ["Applied problems", " Percents"],
+        "question_text": "David used part of $100,000 to purchase a house. Of  the remaining portion, he invested 1 of it at 4 percent 3 simple  annual  interest  and  2  of  it  at 6  percent  simple  3  annual interest. If after a year the income from the  two investments totaled $320, what was the purchase  price of the house? ",
+        "answer_options": ["$96,000", "$94,000", "$88,000", "$75,000", "$40,000"],
+        "correct_answer": 1,
+        "explanation_text": " Let x be the amount, in dollars, that David used  to purchase the house. Then David invested  (100,000 \ufffd x) dollars, 1 at 4% simple annual 3 interest  and   2  at  6%  simple  annual  interest.  After  3  one year the total interest, in dollars, on this  investment was 1 (100,000 \ufffd x)(0.04) + 3 2  (100,000  \ufffd  x)(0.06)   =  320.  Solve  this  equation  3  to find the value of x.  1 (100,000 \ufffd x)(0.04) +                   given 3 2 (100,000 \ufffd x)(0.06) = 320  3   (100,000 \ufffd x)(0.04) + 2(100,000 \ufffd x)(0.06) = 960 multiply both  sides by 3  4,000 \ufffd 0.04x + 12,000 \ufffd 0.12x = 960 distributive  property  16,000 \ufffd 0.16x = 960 combine like terms  16,000 \ufffd 960 = 0.16x add 0.16x \ufffd 960 to  both sides  100,000 \ufffd 6,000           = x divide both sides by 0.16  94,000                    =x  Therefore, the purchase price of the house was $94,000.  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 125,
+        "question_type": "Algebra",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "The cost to rent a small bus for a trip is x dollars, which is to be shared equally among the people taking the trip. If 10 people take the trip rather than 16, how many more dollars, in terms of x, will it cost per person?  ",
+        "answer_options": ["x", "x", "x", "3x", "3x"],
+        "correct_answer": 4,
+        "explanation_text": " If 16 take the trip, the cost per person would  be x dollars. If 10 take the trip, the cost per 16 person would be  x   dollars. (Note that the lowest  10  common multiple of 10 and 16 is 80.) Thus, if 10  take the trip, the increase in dollars per person take the trip, the increase in dollars per person would be x - x = 8x - 5x = 3x .  10 16 80 80 80 The correct answer is E. ",
+        "page_num": 121
+    }, {
+        "question_number": 126,
+        "question_type": "Algebra",
+        "question_subtypes": [" Arithmetic Applied problems", ""],
+        "question_text": "Last year Department Store X had a sales total for December that was 4 times the average (arithmetic mean) of the monthly sales totals for January through November. The sales total for December was what fraction of the sales total for the year? ",
+        "answer_options": ["1", "4", "1", "4 4", "4"],
+        "correct_answer": 1,
+        "explanation_text": "Statistics  Let A equal the average sales per month for the first 11 months. The given information about the total sales for the year can then be expressed as 11A + 4A = 15A. Thus, 4A = (F)(15A), where F is the fraction of the sales total for the year that the sales total for December represents. Then F = 4A = 4 .  15 A 15  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 127,
+        "question_type": "Algebra",
+        "question_subtypes": ["Sequences"],
+        "question_text": "In the sequence x0, x1, x2, ..., xn, each term from x1 to xk is 3 greater than the previous term, and each term from xk + 1 to xn is 3 less than the previous term, where n and k are positive integers and k < n. If x0 = xn = 0 and if xk = 15, what is the value of n ?  ",
+        "answer_options": ["5", "6", "9 9", "10", "15"],
+        "correct_answer": 3,
+        "explanation_text": "Since x0 = 0 and each term from x1 to xk is 3 greater than the previous term, then xk = 0 + (k)(3). Since xk = 15, then 15 = 3k and k = 5. Since each term from xk + 1 to xn is 3 less than the previous term, then xn = xk - (n - k)(3). Substituting the known values for xk, xn, and k  126  gives 0 = 15 - (n - 5)(3), from which it follows that 3n = 30 and n = 10.  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 128,
+        "question_type": "Algebra",
+        "question_subtypes": ["Simplifying algebraic expressions"],
+        "question_text": "If x  2, then 3x2 (x - 2) - x + 2 = x -2  ",
+        "answer_options": ["3x2 - x + 2", "3x2 + 1", "3x2", "3x2 - 1", "3x2 - 2 3x2 - 2"],
+        "correct_answer": 3,
+        "explanation_text": " When simplifying this expression, it is important to note that, as a first step, the numerator must be factored so that the numerator is the product of two or more expressions, one of which is (x - 2). This can be accomplished by rewriting the last two terms of the numerator as (-1)(x - 2). Then  3x2(x - 2) - x + 2 = 3x2(x - 2) + (-1)(x - 2) x-2                           x-2  = (x - 2)(3x2 + (-1)) x-2  = 3x2 + (-1)  = 3x2 - 1  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 129,
+        "question_type": "Algebra",
+        "question_subtypes": ["", " Algebra Area", " Second-degree"],
+        "question_text": "In the figure shown above, line segment QR has length 12, and rectangle MPQT is a square. If the area of rectangular region MPRS is 540, what is the area of rectangular region TQRS ?  ",
+        "answer_options": ["144", "216", "324", "360", "396"],
+        "correct_answer": 1,
+        "explanation_text": "equations  Since MPQT is a square, let MP = PQ = x. Then PR = PQ + QR = x + 12. The area of MPRS can be expressed as x(x + 12). Since the area of MPRS is given to be 540,  x(x + 12) = 540 x2 + 12x = 540 x2 + 12x - 540 = 0 (x - 18)(x + 30) = 0 (x - 18)(x + 30) = 0 x = 18 or x = -30  Since x represents a length and must be positive, x = 18. The area of TQRS is then (12)(18) = 216.  As an alternative to solving the quadratic equation, look for a pair of positive numbers such that their product is 540 and one is 12 greater than the other. The pair is 18 and 30, so x = 18 and the area of TQRS is then (12)(18) = 216.  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 130,
+        "question_type": "Algebra",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "Machines A and B always operate independently and at their respective constant rates. When working alone, Machine A can fill a production lot in 5 hours, and Machine B can fill the same lot in x hours. When the two machines operate simultaneously to fill the production lot, it takes them 2 hours to complete the job. What is the value of x ?  ",
+        "answer_options": ["3 1", "3", "2 1", "2 1", "11"],
+        "correct_answer": 0,
+        "explanation_text": "Since Machine A can fill a production lot in 5 hours, it can fill 1 of the lot in 1 hour. Since  5 Machine B can fill the same production lot in x hours, it can fill 1 of the lot in 1 hour. The two  x    machines operating simultaneously can fill 1 + 1 5x  of the lot in 1 hour. Since it takes them 2 hours  to complete the lot together, they can fill 1 of 2 the  lot  in  1  hour  and  so  1  +  1  =  1,  which can  be  5x 2  solved for x as follows: solved for x as follows:  1+1 = 1 5x 2  10x    1  +               1   =  10x    1 5                  x             2  2x + 10 = 5x  10 = 3x  10 = x 3  x =31 3  The correct answer is A. ",
+        "page_num": 121
+    }, {
+        "question_number": 131,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Estimation"],
+        "question_text": "A certain manufacturer sells its product to stores in 113 different regions worldwide, with an average (arithmetic mean) of 181 stores per region. If last year these stores sold an average of 51,752 units of the manufacturer's product per store, which of the following is closest to the total number of units of the manufacturer's product sold worldwide last year?  ",
+        "answer_options": ["106", "107 107", "108", "109", "1010"],
+        "correct_answer": 3,
+        "explanation_text": " (113)(181)(51,752)  (100)(200)(50, 000) = 102 \ufffd (2 \ufffd 102 ) \ufffd (5 \ufffd 104 ) = (2 \ufffd 5) \ufffd 102 + 2 + 4 = 101 \ufffd 108 = 109  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 132,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents"],
+        "question_text": "Andrew started saving at the beginning of the year and had saved $240 by the end of the year. He continued to save and by the end of 2 years had saved a total of $540. Which of the following is closest to the percent increase in the amount Andrew saved during the second year compared to the amount he saved during the first year?  ",
+        "answer_options": ["11%", "25%", "44%", "56%", "125%"],
+        "correct_answer": 1,
+        "explanation_text": " Andrew saved $240 in the first year and  $540 \ufffd $240 = $300 in the second year. The  percent increase in the amount Andrew saved  in the second year compared to the amount he  saved  in  the  first  year  is    300 - 240  \ufffd 100 %  = 240  60   \ufffd 100    %  =     1   \ufffd 100  %  =  25%. 240                    4  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 133,
+        "question_type": "Algebra",
+        "question_subtypes": ["First-degree equations"],
+        "question_text": "Two numbers differ by 2 and sum to S. Which of the following is the greater of the numbers in terms of S ? ",
+        "answer_options": ["S \ufffd 1", "S", "S + 1", "S + 1", "S + 2"],
+        "correct_answer": 3,
+        "explanation_text": "Let x represent the greater of the two numbers that differ by 2. Then, x \ufffd 2 represents the lesser of the two numbers. The two numbers sum to S, so x + (x \ufffd 2) = S. It follows that 2x \ufffd 2 = S, or 2x = S + 2, or x = S + 1.  2 The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 134,
+        "question_type": "Geometry",
+        "question_subtypes": ["Circles", " Triangles", " Area"],
+        "question_text": "The figure shown above consists of three identical circles that are tangent to each other. If the area of the shaded region is 64 3 \ufffd 32, what is the radius of each circle? ",
+        "answer_options": ["4", "8", "16", "24", "32"],
+        "correct_answer": 1,
+        "explanation_text": " Let r represent the radius of each circle. Then the triangle shown dashed in the figure is equilateral with sides 2r units long. The interior of the triangle is comprised of the shaded region and three circular sectors. The area of the shaded region can be found as the area of the triangle minus the sum of the areas of the three sectors. Since the triangle is equilateral, its side lengths are in the proportions as shown in the diagram below. The area of the interior of the triangle is  ( ) 1 (2r ) r 3 = r 2 3 .  2  r      r  r3 r3 2r  Each of the three sectors has a central angle of  60\ufffd because the central angle is an angle of the  equilateral triangle. Therefore, the area of each  sector is 60 = 1 of the area of the circle. The 360 6  sum of the areas of the three sectors is then  3    1  r  2   =  1  r     2.  Thus,       the  area     of    the  shaded 6            2  region is r 2     3  -  1  r   2  =  r  2       3  -  1        .  But,  this 2                             2  area is given as 64        3   -  32       =  64         3  -  1      . 2  Thus r2 = 64, and r = 8.  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 135,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations with integers"],
+        "question_text": "In a numerical table with 10 rows and 10 columns, each entry is either a 9 or a 10. If the number of 9s in the nth row is n \ufffd 1 for each n from 1 to 10, what is the average (arithmetic mean) of all the numbers in the table?  ",
+        "answer_options": ["9.45", "9.50", "9.55", "9.65", "9.70"],
+        "correct_answer": 2,
+        "explanation_text": "There are (10)(10) = 100 entries in the table. In rows 1, 2, 3, ..., 10, the number of 9s is 0, 1, 2, ..., 9, respectively, giving a total of 0 + 1 + 2 + ... + 9 = 45 entries with a 9. This leaves a total of 100 \ufffd 45 = 55 entries with a 10. Therefore, the sum of the 100 entries is 45(9) + 55(10) = 405 + 550 = 955, and the average of the 100 entries is 955 = 9.55  100  The correct answer is C. ",
+        "page_num": 121
+    }, {
+        "question_number": 136,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "A positive integer n is a perfect number provided that the sum of all the positive factors of n, including 1 and n, is equal to 2n. What is the sum of the reciprocals of all the positive factors of the perfect number 28 ? ",
+        "answer_options": ["1", "56", "2", "3", "4"],
+        "correct_answer": 2,
+        "explanation_text": "The factors of 28 are 1, 2, 4, 7, 14, and 28. Therefore, the sum of the reciprocals of the factors of 28 is 1 + 1 + 1 + 1 + 1 + 1 = 1 2 4 7 14 28  28 + 14 + 7 + 4 + 2 + 1 = 28 28 28 28 28 28  28 + 14 + 7 + 4 + 2 + 1 = 56 = 2. 28                        28  The correct answer is C. ",
+        "page_num": 121
+    }, {
+        "question_number": 137,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Sequences and series"],
+        "question_text": "The infinite sequence a1, a2, . . . , an, . . . is such that a1 = 2, a2 = \ufffd3, a3 = 5, a4 = \ufffd1, and an = an - 4 for n > 4. What is the sum of the first 97 terms of the sequence?  ",
+        "answer_options": ["72", "74", "75", "78", "80"],
+        "correct_answer": 1,
+        "explanation_text": "Because an = an - 4 for n > 4, it follows that the terms of the sequence repeat in groups of 4 terms: Values for n              Values for an 1, 2, 3, 4                2, \ufffd3, 5, \ufffd1 5, 6, 7, 8                2, \ufffd3, 5, \ufffd1 9, 10, 11, 12             2, \ufffd3, 5, \ufffd1 13, 14, 15, 16            2, \ufffd3, 5, \ufffd1  Thus, since 97 = 24(4) + 1, the sum of the first 97 terms can be grouped into 24 groups of 4 terms each, with one remaining term, which allows the sum to be easily found:  (a1 + a2 + a3 + a4 ) + (a5 + a6 + a7 + a8 ) + ... + (a93 + a94 + a95 + a96 ) + a97  = (2 - 3 + 5 - 1) + (2 - 3 + 5 - 1) +... + (2 - 3 + 5 - 1) + 2  = 24(2 - 3 + 5 - 1) + 2 = 24(3) + 2 = 74  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 138,
+        "question_type": "Algebra",
+        "question_subtypes": ["Sequences and series"],
+        "question_text": "The sequence a1, a2, . . . , an, . . . is such that an = 2an - 1 \ufffd x for all positive integers n  2 and for a certain number x. If a5 = 99 and a3 = 27, what is the value of x ?  ",
+        "answer_options": ["3", "9", "18", "36", "45"],
+        "correct_answer": 0,
+        "explanation_text": " An expression for a5 that involves x can be obtained using a3 = 27 and applying the equation an = 2an - 1 - x twice, once for n = 4 and once for n = 5.  a4 = 2a3 \ufffd xusing an = 2an - 1 - x for n=4  = 2(27) \ufffd x  using a3 = 27  a5 = 2a4 \ufffd xusing an = 2an - 1 - x for n       n-1  n = 5.  a4 = 2a3 \ufffd xusing an = 2an - 1 - x for n=4  = 2(27) \ufffd x            using a3 = 27  a5 = 2a4 \ufffd xusing an = 2an - 1 - x for n=5  = 2[2(27) \ufffd x] \ufffd x using a4 = 2(27) - x  = 4(27) \ufffd 3x           combine like terms  Therefore, using a5 = 99, we have  99 = 4(27) \ufffd 3x  given 3x = 4(27) \ufffd 99  adding (3x - 99) to both sides dividing both sides by 3 x = 4(9) \ufffd 33   arithmetic x=3  The correct answer is A. ",
+        "page_num": 121
+    }, {
+        "question_number": 139,
+        "question_type": "Geometry",
+        "question_subtypes": ["Polygons"],
+        "question_text": "A window is in the shape of a regular hexagon with each side of length 80 centimeters. If a diagonal through the center of the hexagon is w centimeters long, then w =  ",
+        "answer_options": ["80", "120", "150", "160", "240"],
+        "correct_answer": 3,
+        "explanation_text": "B  C A  Let A and B be the endpoints of one of the sides of the hexagon and let C be the center of the of the hexagon and let C be the center of the hexagon. Then the degree measure of ACB is 360 = 60 and the sum of the degree measures of  6 ABC and BAC is 180 \ufffd 60 = 120. Also, since AC = BC, the degree measures of ABC and BAC are equal. Therefore, the degree measure of each of ABC and BAC is 60. Thus, ABC is an equilateral triangle with side length AB = 80. It  follows that the length of a diagonal through the center of the hexagon is 2(AC) = 2(80) = 160.  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 140,
+        "question_type": "Geometry",
+        "question_subtypes": ["Polygons"],
+        "question_text": "In the figure shown, PQRSTU is a regular polygon with sides of length x. What is the perimeter of triangle PRT in terms of x ? in terms of x ?  ",
+        "answer_options": ["x3", "x 3", "3x 3", "3x 3", "4x 3"],
+        "correct_answer": 3,
+        "explanation_text": " Since PQRSTU is a regular hexagon, PQR, RST, and TUP are the same size and shape, so PR = RT = TP and the perimeter of PRT is 3(PR). Note that in the figure above, PQRSTU is partitioned into four triangles. The sum of the degree measures of the interior angles of each triangle is 180\ufffd. The total of the degree measures of the interior angles of these four triangles is equal to the sum of the degree measures of the six interior angles of PQRSTU. Since PQRSTU is a regular hexagon, each of UPQ, PQR, QRS, RST , STU , and TUP has the same measure, which is (4)(180\ufffd) = 120\ufffd.  6 which is (4)(180\ufffd) = 120\ufffd. 6  Q  x                                        x  P                 V                            R  In the figure above, PQR is isosceles with  PQ = QR = x. The measure of PQR is 120\ufffd,  and the measure of P = the measure of  R  =  180\ufffd - 120\ufffd =  30\ufffd. QV               is  perpendicular 2  to PR and PV = VR. Since PVQ is a  30\ufffd-60\ufffd-90\ufffd triangle, its side lengths are in the  ratio 1: 3:2, and so PV = x 3 and PR = x 3. 2  Therefore, the perimeter of PRT is  3(x 3) = 3x 3 .  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 141,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems", " Percents"],
+        "question_text": "In a certain medical survey, 45 percent of the people surveyed had the type A antigen in their blood and 3 percent had both the type A antigen and the type B antigen. Which of the following is closest to the percent of those with the type A antigen who also had the type B antigen?  ",
+        "answer_options": ["1.35%", "6.67%", "13.50%", "15.00%", "42.00%"],
+        "correct_answer": 1,
+        "explanation_text": " Let n be the total number of people surveyed. Then, the proportion of the people who had  type A who also had type B is (3%)n/ = 3 = 1 , (45%)n/ 45 15  which as a percent is approximately 6.67%. Note  that by using 1 = 1 \ufffd 1, which equals 1 of 20%, 15 3 5  3  we can avoid dividing by a 2-digit integer. The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 142,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Percents"],
+        "question_text": "On a certain transatlantic crossing, 20 percent of a ship's passengers held round-trip tickets and also took their cars aboard the ship. If 60 percent of the passengers with round-trip tickets did not take their cars aboard the ship, what percent of the ship's passengers held round-trip tickets?  ",
+        "answer_options": ["33 1 %", "40%", "50%", "60%", "66 2 %"],
+        "correct_answer": 2,
+        "explanation_text": "Since the number of passengers on the ship is immaterial, let the number of passengers on the ship be 100 for convenience. Let x be the number of passengers that held round-trip tickets. Then, since 20 percent of the passengers held a round-trip ticket and took their cars aboard the ship, 0.20(100) = 20 passengers held round-trip tickets and took their cars aboard the ship. The remaining passengers with round-trip tickets did not take their cars aboard, and they represent 0.6x (that is, 60 percent of the passengers with round- trip tickets). Thus 0.6x + 20 = x, from which it follows that 20 = 0.4x, and so x = 50. The percent of passengers with round-trip tickets is, then, 50 = 50%. 100 The correct answer is C. ",
+        "page_num": 121
+    }, {
+        "question_number": 143,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Exponents"],
+        "question_text": "If x and k are integers and (12x)(42x + 1) = (2k)(32), what is the value of k ?  ",
+        "answer_options": ["5", "7", "10", "12", "14"],
+        "correct_answer": 4,
+        "explanation_text": "Rewrite the expression on the left so that it is a product of powers of 2 and 3.  (12x )(42x+1 ) = [(3  22 )x ][(22 )2x+1 ] = (3x )[(22 )x ][22(2x+1) ] = (3x )(22x )(24x+2 ) = (3x )(26x+2 )  Then, since (12x)(42x + 1) = (2k)(32), it follows that (3x)(26x + 2) = (2k)(32) = (32)(2k), so x = 2 and k = 6x + 2. Substituting 2 for x gives k = 6(2) + 2 = 14. The correct answer is E. ",
+        "page_num": 121
+    }, {
+        "question_number": 144,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Estimation"],
+        "question_text": "If S is the sum of the reciprocals of the 10 consecutive integers from 21 to 30, then S is between which of the following two fractions?  ",
+        "answer_options": ["1 and 1", "1 and 1", "1 and 1", "1 and 1", "1 and 1"],
+        "correct_answer": 0,
+        "explanation_text": " The value of 1 + 1 + 1 + ... + 1 is LESS 21 22 23              30  than 1 + 1 + 1 + ... + 1 (10 numbers 20 20 20                   20  added), which  equals  10  1    =  1 , and 20      2  GREATER than 1 + 1 + 1 + ... + 1 30 30 30                     30 132  (10  numbers  added),  which  equals  10  1    =  1. 30      3  Therefore, the value of 1 + 1 + 1 + ... + 1 21 22 23                   30  is between 1 and 1 . 32  The correct answer is A. ",
+        "page_num": 121
+    }, {
+        "question_number": 145,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "For every even positive integer m, f(m) represents the product of all even integers from 2 to m, inclusive. For example, f(12) = 2 \ufffd 4 \ufffd 6 \ufffd 8 \ufffd 10 \ufffd 12. What is the greatest prime factor of f(24) ?  ",
+        "answer_options": ["23", "19", "17", "13", "11"],
+        "correct_answer": 4,
+        "explanation_text": " Rewriting f(24) = 2 \ufffd 4 \ufffd 6 \ufffd 8 \ufffd 10 \ufffd 12 \ufffd 14 \ufffd ... \ufffd 20 \ufffd 22 \ufffd 24 as 2 \ufffd 4 \ufffd 2(3) \ufffd 8 \ufffd 2(5) \ufffd 12 \ufffd 2(7) \ufffd ... \ufffd 20 \ufffd 2(11) \ufffd 24 shows that all of the prime numbers from 2 through 11 are factors of f(24). The next prime number is 13, but 13 is not a factor of f(24) because none of the even integers from 2 through 24 has 13 as a factor. Therefore, the largest prime factor of f(24) is 11.  The correct answer is E. ",
+        "page_num": 121
+    }, {
+        "question_number": 146,
+        "question_type": "Geometry",
+        "question_subtypes": ["Polygons", " Triangles"],
+        "question_text": "In pentagon PQRST, PQ = 3, QR = 2, RS = 4, and ST = 5. Which of the lengths 5, 10, and 15 could be the value of PT ?  ",
+        "answer_options": ["5 only", "15 only", "5 and 10 only", "10 and 15 only", "5, 10, and 15"],
+        "correct_answer": 2,
+        "explanation_text": " Q  2R 3               4  S  5  P         T  Note: Not drawn to scale.  In the figure above, diagonals TQ and TR have been drawn in to show TRS and TRQ. Because the length of any side of a triangle must be less than the sum of the lengths of the other two sides, RT < 5 + 4 = 9 in TRS, and QT < RT + 2 in TRQ. Since RT < 9, then RT + 2 < 9 + 2 = 11, which then implies QT < 11. Now, PT < QT + 3 in TQP, and since QT < 11, QT + 3 < 11 + 3 = 14. It follows that PT < 14. Therefore, 15 cannot be the length of PT since 15 </ 14. Q2      R 3               4  7  8 S  5  P  5           T  Note: Not drawn to scale.  To show that 5 can be the length of PT , consider the figure above. For TQP, the length of any side is less than the sum of the lengths of the other two sides as shown below.  QT = 7 < 8 = 5 + 3 = PT + PQ PQ = 3 < 12 = 5 + 7 = PT + TQ PT = 5 < 10 = 3 + 7 = PQ + TQ  For RQT, the length of any side is less than the sum of the lengths of the other two sides as shown below.  RT = 8 < 9 = 7 + 2 = QT + QR RT = 8 < 9 = 7 + 2 = QT + QR RQ = 2 < 15 = 7 + 8 = QT + RT QT = 7 < 10 = 2 + 8 = QR + RT    For RST, the length of any side is less than the sum of the lengths of the other two sides as shown below.  RS = 4 < 13 = 8 + 5 = TR + TS RT = 8 < 9 = 5 + 4 = ST + SR ST = 5 < 12 = 8 + 4 = TR + RS  Q2      R 3               4  9  8 10             S  5 Q2      R 3               4  9  8 S  5  P  10 T  Note: Not drawn to scale.  To show that 10 can be the length of PT , consider the figure above. For TQP, the length of any side is less than the sum of the lengths of the other two sides as shown below.  QT = 9 < 13 = 10 + 3 = PT + PQ PQ = 3 < 19 = 10 + 9 = PT + TQ PT = 10 < 12 = 3 + 9 = PQ + TQ  For RQT, the length of any side is less than the sum of the lengths of the other two sides as shown below. RT = 8 < 11 = 9 + 2 = QT + QR RQ = 2 < 17 = 9 + 8 = QT + RT QT = 9 < 10 = 2 + 8 = QT + RT  For RST, the length of any side is less than the sum of the lengths of the other two sides as shown below.  RS = 4 < 13 = 8 + 5 = TR + TS RT = 8 < 9 = 5 + 4 = ST + SR ST = 5 < 12 = 8 + 4 = TR + RS  Therefore, 5 and 10 can be the length of PT , and 15 cannot be the length of PT .  The correct answer is C. ",
+        "page_num": 121
+    }, {
+        "question_number": 147,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Statistics"],
+        "question_text": "The arithmetic mean of the list of numbers above is 4. If k and m are integers and k  m what is the median of the list?  ",
+        "answer_options": ["2", "2.5", "3", "3.5", "4"],
+        "correct_answer": 2,
+        "explanation_text": "Since the arithmetic mean = sum of values ,  number of values then 3 + k + 2 + 8 + m + 3 = 4, and so Since the arithmetic mean = sum of values , number of values  then 3 + k + 2 + 8 + m + 3 = 4, and so 6  16 + k + m = 4, 16 + k + m = 24, k + m = 8. Since 6  k  m, then either k < 4 and m > 4 or k > 4 and m < 4. Because k and m are integers, either k  3 and 5  m or k  5 and m  3.  Case (i):If k  2, then m  6 and the six integers in ascending order are k, 2, 3, 3, m, 8 or k, 2, 3, 3, 8, m. The two middle integers are both 3 so the median is 3 + 3 = 3 . 2  Case (ii):If k = 3, then m = 5 and the six integers in ascending order are 2, k, 3, 3, m, 8. The two middle integers are both 3 so the median is 3 + 3 = 3. 2  Case (iii):If k = 5, then m = 3 and the six integers in ascending order are 2, m, 3, 3, k, 8. The two middle integers are both 3 so the median is 3+3 = 3. 2 Case (iv):If k  6, then m  2 and the six integers in ascending order are m, 2, 3, 3, k, 8 or m, 2, 3, 3, 8, k. The two middle integers are both 3 so the median is 3 + 3 = 3 .  2 The correct answer is C. ",
+        "page_num": 121
+    }, {
+        "question_number": 148,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Statistics"],
+        "question_text": "If the variables X, Y, and Z take on only the values 10, 20, 30, 40, 50, 60, or 70 with frequencies indicated by the shaded regions above, for which of the frequency distributions is the mean equal to the median?  ",
+        "answer_options": ["X only", "Y only", "Z only", "X and Y", "X and Z"],
+        "correct_answer": 4,
+        "explanation_text": "The frequency distributions for both X and Z are symmetric about 40, and thus both X and Z have mean = median = 40. Therefore, any answer have mean = median = 40. Therefore, any answer choice that does not include both X and Z can be eliminated. This leaves only answer choice E. The correct answer is E. ",
+        "page_num": 121
+    }, {
+        "question_number": 149,
+        "question_type": "Geometry",
+        "question_subtypes": ["Solids"],
+        "question_text": "When the figure above is cut along the solid lines, folded along the dashed lines, and taped along the solid lines, the result is a model of a geometric solid. This geometric solid consists of 2 pyramids, each with a square base that they share. What is the sum of the number of edges and the number of faces of this geometric solid? ",
+        "answer_options": ["10", "18", "20", "24", "25"],
+        "correct_answer": 2,
+        "explanation_text": " A geometric solid consisting of 2 pyramids, each with a square base that they share, is shown in the figure above. From the figure it can be seen that the solid has 12 edges and 8 faces. Therefore, the sum of the number of edges and the number of faces of the solid is 12 + 8 = 20. Alternatively, the solid has 7 + 5 = 12 edges because each edge in the solid is generated from either a dashed segment (there are 7 dashed    segments) or from a pair of solid segments taped together (there are 10 = 5 such pairs of solid  2 segments), and the solid has 8 faces because there are 8 small triangles in the given figure. Therefore, the sum of the number of edges and the number of faces of the solid is 12 + 8 = 20. The correct answer is C. ",
+        "page_num": 121
+    }, {
+        "question_number": 150,
+        "question_type": "Algebra",
+        "question_subtypes": ["Absolute value"],
+        "question_text": "For how many ordered pairs (x,y) that are solutions of the system above are x and y both integers? ",
+        "answer_options": ["7", "10", "12", "13", "14"],
+        "correct_answer": 3,
+        "explanation_text": " From | y |  12, if y must be an integer, then y must be in the set S = {\ufffd12, \ufffd11, \ufffd10, ..., \ufffd3, \ufffd2, \ufffd1, 0}.  Since  2x  +  y  =  12, then  x  =  12 -  y      x  must  be . If 2  an integer, then 12 - y must be divisible by 2; that  is, 12 - y must be even. Since 12 is even, 12 - y  is even if and only if y is even. This eliminates  all odd integers from S, leaving only the even  integers \ufffd12, \ufffd10, \ufffd8, \ufffd6, \ufffd4, \ufffd2, and 0. Thus,  there are 13 possible integer y-values, each with  a corresponding integer x-value and, therefore,  there are 13 ordered pairs (x,y), where x and y are  both integers, that solve the system.  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 151,
+        "question_type": "Geometry",
+        "question_subtypes": ["Circles", " Triangles", " Circumference"],
+        "question_text": "The points R, T, and U lie on a circle that has radius 4.  If the length of arc RTU is 4 what is the length of line 3  segment RU ? 4  ",
+        "answer_options": ["3", "3", "3", "4", "6"],
+        "correct_answer": 3,
+        "explanation_text": " U T  x\ufffd        R O4  In the figure above, O is the center of the circle  that contains R, T, and U and x is the degree  measure of ROU. Since the circumference of  the circle is 2(4) = 8 and there are 360\ufffd in the  circle, the ratio of the length of arc RTU to the  circumference of the circle is the same as the  4  ratio of x to 360. Therefore, 3 = x . Then 8 360 4 (360) x= 3  8  = 480 = 60. This means 8  that ROU is an isosceles triangle with side  lengths OR = OU = 4 and vertex angle measuring  60\ufffd. The base angles of ROU must have equal  measures and the sum of their measures must be  180\ufffd - 60\ufffd = 120\ufffd. Therefore, each base angle  measures 60\ufffd, ROU is equilateral, and RU = 4.  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 152,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Elementary combinatorics"],
+        "question_text": "A certain university will select 1 of 7 candidates eligible to fill a position in the mathematics department and 2 of 10 candidates eligible to fill 2 identical positions in the computer science department. If none of the candidates is eligible for a position in both departments, how many different sets of 3 candidates are there to fill the 3 positions? ",
+        "answer_options": ["42", "70", "140", "165", "315"],
+        "correct_answer": 4,
+        "explanation_text": " To fill the position in the math department, 1 candidate will be selected from a group of 7 eligible candidates, and so there are 7 sets of 1 candidate each to fill the position in the math department. To fill the positions in the computer science department, any one of the 10 eligible candidates can be chosen for the first position and any of the remaining 9 eligible candidates can be chosen for the second position, making a total of 10 \ufffd 9 = 90 sets of 2 candidates to fill the computer science positions. But, this number includes the set in which Candidate A was chosen to fill the first position and Candidate B was chosen to fill the second position as well as the set in which Candidate B was chosen for the first position and Candidate A was chosen for the second position. These sets are not different essentially since the positions are identical and in both sets Candidates A and B are chosen to fill the 2 positions. Therefore, there are 90 = 45 sets of 2 candidates to fill the computer 2 science positions. Then, using the multiplication principle, there are 7 \ufffd 45 = 315 different sets of 3 candidates to fill the 3 positions.  The correct answer is E. ",
+        "page_num": 121
+    }, {
+        "question_number": 153,
+        "question_type": "Algebra",
+        "question_subtypes": [" Arithmetic First-degree equations", ""],
+        "question_text": "A survey of employers found that during 1993 employment costs rose 3.5 percent, where employment costs consist of salary costs and fringe- benefit costs. If salary costs rose 3 percent and fringe-benefit costs rose 5.5 percent during 1993, then fringe-benefit costs represented what percent of employment costs at the beginning of 1993 ?  ",
+        "answer_options": ["16.5%", "20%", "35%", "55%", "65% 65%"],
+        "correct_answer": 1,
+        "explanation_text": "Percents  Let E represent employment costs, S represent salary costs, and F represent fringe-benefit costs. Then E = S + F. An increase of 3 percent in salary costs and a 5.5 percent increase in fringe-benefit costs resulted in a 3.5 percent increase in employment costs. Therefore 1.03S + 1.055F = 1.035E. But, E = S + F, so 1.03S + 1.055F = 1.035(S + F) = 1.035S + 1.035F.  Combining like terms gives (1.055 - 1.035)F = (1.035 - 1.03)S or 0.02F = 0.005S. Then, S = 0.02 F = 4F . Thus,  0.005 since E = S + F, it follows that E = 4F + F = 5F. Then, F as a percent of E is F = F = 1 = 20%.  E 5F 5  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 154,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Sets"],
+        "question_text": "The subsets of the set {w, x, y} are {w}, {x}, {y}, {w, x}, {w, y}, {x, y}, {w, x, y}, and { } (the empty subset). How many subsets of the set {w, x, y, z} contain w ? ",
+        "answer_options": ["Four", "Five", "Seven", "Eight", "Sixteen"],
+        "correct_answer": 3,
+        "explanation_text": "As shown in the table, the subsets of {w, x, y, z} can be organized into two columns, those subsets of {w, x, y, z} that do not contain w (left column) and the corresponding subsets of {w, x, y, z} that contain w (right column), and each of these collections has the same number of sets. Therefore, there are 8 subsets of {w, x, y, z} that contain w. contain w.  subsets not containing w subsets containing w  {}                        {w}  {x}                       {w, x}  {y}                       {w, y}  {z}                       {w, z}  {x, y}                    {w, x, y}  {x, z}                    {w, x, z}  {y, z}                    {w, y, z}  {x, y, z}                 {w, x, y, z}  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 155,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Elementary combinatorics"],
+        "question_text": "There are 5 cars to be displayed in 5 parking spaces, with all the cars facing the same direction. Of the 5 cars, 3 are red, 1 is blue, and 1 is yellow. If the cars are identical except for color, how many different display arrangements of the 5 cars are possible?  ",
+        "answer_options": ["20", "25", "40", "60", "125"],
+        "correct_answer": 0,
+        "explanation_text": " There are 5 parking spaces from which 3 must be chosen to display the 3 identical red cars.  Thus,  there  are    5    = 5!    = 10 different 3      3!2!  arrangements of the 3 identical red cars in the  parking spaces. There are 2 spaces remaining for  displaying the single blue car and 1 space left for  displaying the single yellow car. Therefore, there  are (10)(2)(1) = 20 arrangements possible for  displaying the 5 cars in the 5 parking spaces.  The correct answer is A. ",
+        "page_num": 121
+    }, {
+        "question_number": 156,
+        "question_type": "Algebra",
+        "question_subtypes": ["Operations on radical expressions"],
+        "question_text": "The number 63 - 36 3 can be expressed as x + y 3 for some integers x and y. What is the value of xy ?  ",
+        "answer_options": ["\ufffd18", "\ufffd6", "6", "18", "27"],
+        "correct_answer": 0,
+        "explanation_text": " Squaring both sides of 63 - 36 3 = x + y 3 gives 63 \ufffd 36 3 = x2 + 2xy 3 + 3y2 = (x2 + 3y2) + (2xy) 3 , which implies that \ufffd36 = 2xy, or xy = \ufffd18. Indeed, if \ufffd36  2xy, or equivalently, if 36 + 2xy  0, then we could write  3 as a quotient of the two integers 63 \ufffd x2 \ufffd 3y2 and 36 + 2xy, which is not possible because 3 is an irrational number. To be more explicit, 63 \ufffd 36 3 = x2 + 2xy 3 + 3y2 implies 63 \ufffd x2 \ufffd 3y2 = (36 + 2xy) 3, and if 36 + 2xy  0, then we could divide both sides of the equation 63 \ufffd x2 \ufffd 3y2 = (36 + 2xy) 3 by 36 + 2xy to get 63 - x2 - 3 y 2 = 3 . = 3. 36 + 2xy The correct answer is A. ",
+        "page_num": 121
+    }, {
+        "question_number": 157,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Elementary combinatorics"],
+        "question_text": "There are 10 books on a shelf, of which 4 are paperbacks and 6 are hardbacks. How many possible selections of 5 books from the shelf contain at least one paperback and at least one hardback?  ",
+        "answer_options": ["75", "120", "210", "246", "252"],
+        "correct_answer": 3,
+        "explanation_text": " The number of selections of 5 books containing at least one paperback and at least one hardback is equal to T - N, where T is the total number of selections of 5 books and N is the number of selections that do not contain both a paperback and a hardback. The value of T is  10  =      10 !  5)!  =  (6)(7)(8)(9)(10) 5      5!(10 -           (1)(2)(3)(4)(5)  = (7)(2)(9)(2) = 252.  138 (D) 246 (E) 252  Arithmetic Elementary combinatorics  The number of selections of 5 books containing at least one paperback and at least one hardback is equal to T - N, where T is the total number of selections of 5 books and N is the number of selections that do not contain both a paperback and a hardback. The value of T is  10  =      10 !  5)!  =  (6)(7)(8)(9)(10) 5      5!(10 -           (1)(2)(3)(4)(5)  = (7)(2)(9)(2) = 252.  138  To find the value of N, first note that no selection of 5 books can contain all paperbacks, since there are only 4 paperback books. Thus, the value of N is equal to the number of selections of 5 books that contain all hardbacks, which is equal to 6 since there are 6 ways that a single hardback can be left out when choosing the 5 hardback books. It follows that the number of selections of 5 books containing at least one paperback and at least one hardback is T - N = 252 - 6 = 246.  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 158,
+        "question_type": "Algebra",
+        "question_subtypes": ["ic", " Algebra Probability", " Concepts"],
+        "question_text": "If x is to be chosen at random from the set {1, 2, 3, 4} and y is to be chosen at random from the set {5, 6, 7}, what is the probability that xy will be even?  ",
+        "answer_options": ["1", "1", "1", "2", "5"],
+        "correct_answer": 3,
+        "explanation_text": "of sets  By the principle of multiplication, since there are 4 elements in the first set and 3 elements in the second set, there are (4)(3) = 12 possible products of xy, where x is chosen from the first set and y is of xy, where x is chosen from the first set and y is chosen from the second set. These products will be even EXCEPT when both x and y are odd. Since there are 2 odd numbers in the first set and 2 odd numbers in the second set, there are (2)(2) = 4 products of x and y that are odd. This means that the remaining 12 - 4 = 8 products are even. Thus, the probability that xy is even is 8 = 2 .  12 3  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 159,
+        "question_type": "Algebra",
+        "question_subtypes": ["Place value"],
+        "question_text": "The function f is defined for each positive three-digit integer n by f(n) = 2x 3y 5z, where x, y, and z are the hundreds, tens, and units digits of n, respectively. If m and v are three-digit positive integers such that  f(m) = 9f(v), then m - v =  ",
+        "answer_options": ["8", "9", "18", "20", "80"],
+        "correct_answer": 3,
+        "explanation_text": "Let the hundreds, tens, and units digits of Algebra Place value  Let the hundreds, tens, and units digits of m be A, B, and C, respectively; and let the hundreds, tens, and units digits of v be a, b, and c, respectively. From f(m) = 9f(v) it follows that 2A3B5C = 9(2a3b5c) = 32(2a3b5c) = 2a3b + 25c. Therefore, A = a, B = b + 2, and C = c. Now calculate m \ufffd v.  m \ufffd v = (100A + 10B + C)        place value \ufffd (100a + 10b + c)  property  = (100a + 10(b + 2) + c) obtained above \ufffd (100a + 10b + c)  = 10(b + 2) \ufffd 10b               combine like terms  = 10b + 20 \ufffd 10b                distributive property  = 20                            combine like terms  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 160,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "If 1050 \ufffd 74 is written as an integer in base 10 notation, what is the sum of the digits in that integer?  ",
+        "answer_options": ["424", "433", "440", "449", "467"],
+        "correct_answer": 2,
+        "explanation_text": " 102 \ufffd 74 = 100 \ufffd 74     = 26 103 \ufffd 74 = 1,000 \ufffd 74   = 926 104 \ufffd 74 = 10,000 \ufffd 74  = 9,926  105 \ufffd 74 = 100,000 \ufffd 74 = 99,926 106 \ufffd 74 = 1,000,000 \ufffd 74 = 999,926  50 102 \ufffd 74 = 100 \ufffd 74    = 26  103 \ufffd 74 = 1,000 \ufffd 74  = 926  104 \ufffd 74 = 10,000 \ufffd 74 = 9,926  105 \ufffd 74 = 100,000 \ufffd 74 = 99,926  106 \ufffd 74 = 1,000,000 \ufffd 74 = 999,926  From the table above it is clear that 1050 \ufffd 74 in base 10 notation will be 48 digits of 9 followed by the digits 2 and 6. Therefore, the sum of the digits of 1050 - 74 is equal to 48(9) + 2 + 6 = 440.  The correct answer is C. ",
+        "page_num": 121
+    }, {
+        "question_number": 161,
+        "question_type": "Algebra",
+        "question_subtypes": [" Arithmetic First-degree equations", ""],
+        "question_text": "A certain company that sells only cars and trucks reported that revenues from car sales in 1997 were down 11 percent from 1996 and revenues from truck sales in 1997 were up 7 percent from 1996. If total revenues from car sales and truck sales in 1997 were up 1 percent from 1996, what is the ratio of revenue from car sales in 1996 to revenue from truck sales in 1996 ?  ",
+        "answer_options": ["1:2", "4:5 4:5", "1:1", "3:2", "5:3"],
+        "correct_answer": 0,
+        "explanation_text": "Percents  Let C96 and C97 represent revenues from car sales in 1996 and 1997, respectively, and let T96 and T97 represent revenues from truck sales in 1996 and 1997, respectively. A decrease of 11 percent in revenue from car sales from 1996 to 1997 can be represented as (1 - 0.11)C96 = C97, and a 7 percent increase in revenue from truck sales from 1996 to 1997 can be represented as (1 + 0.07)T96 = T97. An overall increase of 1 percent in revenue from car and truck sales from 1996 to 1997 can be represented as C97 + T97 = (1 + 0.01)(C96 + T96). Then, by substitution of expressions for C97 and T97 that were derived above, (1 - 0.11)C96 + (1 + 0.07)T96 = (1 + 0.01)(C96 + T96) and so 0.89C96 + 1.07T96 = 1.01(C96 + T96) or 0.89C96 + 1.07T96 = 1.01C96 + 1.01T96. Then, combining like terms gives (1.07 - 1.01)T96 = (1.01 - 0.89)C96 or 96                                 96  139    0.06T96  =  0.12C96. Thus  C96  =  0.06  =     12. The  ratio T96     0.12  of revenue from car sales in 1996 to revenue from  truck sales in 1996 is 1:2.  The correct answer is A. ",
+        "page_num": 121
+    }, {
+        "question_number": 162,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "Becky rented a power tool from a rental shop. The rent for the tool was $12 for the first hour and $3 for each additional hour. If Becky paid a total of $27, excluding sales tax, to rent the tool, for how many hours did she rent it?  ",
+        "answer_options": ["5", "6", "9", "10", "12"],
+        "correct_answer": 1,
+        "explanation_text": "(C)9 (D) 10 (E) 12  Arithmetic Applied problems  Becky paid a total of $27 to rent the power tool. She paid $12 to rent the tool for the first hour and $27 \ufffd $12 = $15 to rent the tool for the additional hours at the rate of $3 per additional hour. It follows that she rented the tool for 15 = 5 additional hours and a total of  3 1 + 5 = 6 hours.  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 163,
+        "question_type": "Algebra",
+        "question_subtypes": ["Inequalities"],
+        "question_text": "If  4  <  7  -  x  ,  which  of  the  following  must  be  true? 3  ",
+        "answer_options": ["II only", "III only", "I and II only", "II and III only", "I, II, and III"],
+        "correct_answer": 3,
+        "explanation_text": "Given that 4 < 7 - x , it follows that 12 < 7 - x.  3 Then, 5 < -x or, equivalently, x < -5. I.If 4 < 7 - x, then x < -5. If 5 < x were true  3 then, by combining 5 < x and x < -5, it would follow that 5 < -5, which cannot be true. Therefore, it is not the case that, if 4 < 7 - x, then Statement I must be true. In  3 fact, Statement I is never true. II.If 4 < 7 - x , then x < -5, and it follows that  3 x + 3 < -2. Since -2 < 0, then x + 3 < 0 and x + 3 < -2. Since -2 < 0, then x + 3 < 0 and |x + 3| = -(x + 3). If x + 3 < -2, then -(x + 3) > 2 and by substitution, |x + 3| > 2. Therefore, Statement II must be true for every value of x such that x < -5. Therefore, Statement II must be true if 4 < 7 - x .  3  III.If 4 < 7 - x, then x < -5 and x + 5 < 0. But if 3  x + 5 < 0, then it follows that -(x + 5) > 0 and so -(x + 5) is positive. Therefore Statement III must be true if 4 < 7 - x .  3  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 164,
+        "question_type": "Algebra",
+        "question_subtypes": ["", " Algebra Triangles", " Area", ""],
+        "question_text": "A certain right triangle has sides of length x, y, and z, where x < y < z. If the area of this triangular region is 1, which of the following indicates all of the possible values of y ?  ",
+        "answer_options": ["y > 2", "3  <  y  <  2", "2  <   y  <    3 2", "3  <   y  <    2 3", "y<      3"],
+        "correct_answer": 0,
+        "explanation_text": "Inequalities  Since x, y, and z are the side lengths of a right triangle and x < y < z, it follows that x and y are the lengths of the legs of the triangle and so the  area of the triangle is 1 xy. But, it is given that 2 the   area   is  1  and  so  1  xy  =  1. Then,  xy    =  2  and  y  =  2.  Under     the    2           that      x,  y,  and  z x                  assumption  are all positive since they are the side lengths of  a triangle, x < y implies 1 > 1 and then 2 > 2. xy                       x      y y   =  2, so       substitution,  y  >     2     which But,                by                              , x                                   y  implies that y2 > 2 since y is positive. Thus, y > 2.  Alternatively, if x < 2 and y < 2 then xy < 2. If x > 2 and y > 2, then xy > 2. But, xy = 2 so x are all positive since they are the side lengths of  a triangle, x < y implies 1 > 1 and then 2 > 2. xy                    x   y y  =  2, so      substitution,  y  >  2     which But,               by                          , x                               y  implies that y2 > 2 since y is positive. Thus, y > 2.  Alternatively, if x < 2 and y < 2 then xy < 2. If x > 2 and y > 2, then xy > 2. But, xy = 2 so one of x or y must be less than 2 and the other must be greater than 2 . Since x < y, it follows that x < 2 < y and y > 2.  The correct answer is A. ",
+        "page_num": 121
+    }, {
+        "question_number": 165,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "On a certain day, a bakery produced a batch of rolls at a total production cost of $300. On that day, 4 of the 5 rolls in the batch were sold, each at a price that was 50 percent greater than the average (arithmetic mean) production cost per roll. The remaining rolls in the batch were sold the next day, each at a price that was 20 percent less than the price of the day before. What was the bakery's profit on this batch of rolls?  ",
+        "answer_options": ["$150", "$144", "$132", "$108", "$90"],
+        "correct_answer": 2,
+        "explanation_text": " Let n be the number of rolls in the batch and p be the average production price, in dollars, per roll. Then the total cost of the batch is np = 300 dollars, and the total revenue from selling the rolls  in  the  batch    is    4  n   (1.5  p)  +    1  n    (0.8)(1.5  p)  = 5                     5  4  n     3  p   +     1  n    4        3  p    =    6+   6     np 5        2            5       5        2            5    25    =     36     np.  Therefore,     the     profit     from   selling   the 25  rolls  in    the  batch    is    36      np  \ufffd  np    =    11    np  = 25                        25  11    (300)    dollars     =  132     dollars. 25 The correct answer is C. ",
+        "page_num": 121
+    }, {
+        "question_number": 166,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "A set of numbers has the property that for any number t in the set, t + 2 is in the set. If \ufffd1 is in the set, which of the following must also be in the set?  ",
+        "answer_options": ["I only", "II only", "I and II only", "II and III only", "I, II, and III"],
+        "correct_answer": 3,
+        "explanation_text": "It is given that \ufffd1 is in the set and, if t is in the set, then t + 2 is in the set.  I.Since {\ufffd1, 1, 3, 5, 7, 9, 11, ...} contains \ufffd1 and satisfies the property that if t is in the set, then t + 2 is in the set, it is not true that \ufffd3 must be in the set. II.Since \ufffd1 is in the set, -1 + 2 = 1 is in the set. Therefore, it must be true that 1 is in the set.  III.Since \ufffd1 is in the set, -1 + 2 = 1 is in the set. Since 1 is in the set, 1 + 2 = 3 is in the set. Since 3 is in the set, 3 + 2 = 5 is in the set. Therefore, it must be true that 5 is in the set.  The correct answer is D. ",
+        "page_num": 121
+    }, {
+        "question_number": 167,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Probability"],
+        "question_text": "A couple decides to have 4 children. If they succeed in having 4 children and each child is equally likely to be a boy or a girl, what is the probability that they will have exactly 2 girls and 2 boys?  ",
+        "answer_options": ["83", "4", "3", "8", "16"],
+        "correct_answer": 0,
+        "explanation_text": " Representing the birth order of the 4 children as a sequence of 4 letters, each of which is B for boy and G for girl, there are 2 possibilities (B or G) for the first letter, 2 for the second letter, 2 for the third letter, and 2 for the fourth letter, making a total of 24 = 16 sequences. The table below categorizes some of these 16 sequences. # of # of   Sequences      # of boys girls              sequences  0  4 GGGG               1  1  3 BGGG, GBGG,        4  GGBG, GGGB  3  1 GBBB, BGBB,        4  BBGB, BBBG  4  0 BBBB               1  The table accounts for 1 + 4 + 4 + 1 = 10 sequences. The other 6 sequences will have 2Bs and 2Gs. Therefore the probability that the couple will have exactly 2 boys and 2 girls is 6 = 3 .  16 8 For the mathematically inclined, if it is assumed that a couple has a fixed number of children, that the probability of having a girl each time is p, and that the sex of each child is independent of the sex of the other children, then the number of girls, x, born to a couple with n children is a random variable having the binomial probability distribution. The probability of having exactly x girls born to a couple with n children is given by the formula  nx px (1 - p)n-x . For the problem  142 142  at hand, it is given that each child is equally  likely to be a boy or a girl, and so p = 1 . Thus, 2  the probability of having exactly 2 girls born to a  couple with 4 children is  42      12      12   =    4!      12    12  = 2       2        2!2!     2     2  (6)    1      1    =  6   =  3  . 4      4       16     8  The correct answer is A. ",
+        "page_num": 121
+    }, {
+        "question_number": 168,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Applied problems", " Percents"],
+        "question_text": "The closing price of Stock X changed on each trading day last month. The percent change in the closing price of Stock X from the first trading day last month to each of the other trading days last month was less than 50 percent. If the closing price on the second trading day last month was $10.00, which of the following CANNOT be the closing price on the last trading day last month?  ",
+        "answer_options": ["$3.00", "$9.00", "$19.00", "$24.00", "$29.00"],
+        "correct_answer": 0,
+        "explanation_text": " Let P be the first-day closing price, in dollars, of the stock. It is given that the second-day closing  price was (1 + n%)P = 10, so P = 10 , for 1 + n%  some value of n such that \ufffd50 < n < 50. Therefore,  P is between 10  6.67 and 10 = 20. 1 + 0.50      1 - 0.50  Hence, if Q is the closing price, in dollars, of  the stock on the last day, then Q is between  (0.50)(6.67)  3.34 (50% decrease from the  lowest possible first-day closing price) and  (1.50)(20) = 30 (50% increase from the greatest  possible first-day closing price). The only answer  choice that gives a number of dollars not between  3.34 and 30 is the first answer choice.  The correct answer is A. ",
+        "page_num": 121
+    }, {
+        "question_number": 169,
+        "question_type": "Geometry",
+        "question_subtypes": ["Angles"],
+        "question_text": "In the figure above, point O is the center of the circle and OC = AC = AB. What is the value of x ?  ",
+        "answer_options": ["40", "36", "34", "32", "30"],
+        "correct_answer": 1,
+        "explanation_text": " A z\ufffd x\ufffd  z\ufffd  x\ufffd            y\ufffd y\ufffd D  O            B C  Consider the figure above, where DB is a  diameter of the circle with center O and AD is a chord. Since OC = AC, OCA is isosceles and so the base angles, AOC and OAC, have the same degree measure. The measure of AOC is given as x\ufffd, so the measure of OAC is x\ufffd. Since AC = AB, CAB is isosceles and so the base angles, ACB and ABC, have the same degree measure. The measure of each is marked as y\ufffd. Likewise, since OD and OA are radii of the circle, OD = OA, and DOA is isosceles with base angles, ADO and DAO, each measuring z\ufffd. Each of the following  statements is true:   (i)The measure of CAB is 180 - 2y since the sum of the measures of the angles of CAB is 180.  (ii)DAB is a right angle (because DB is a diameter of the circle) and so z + x + (180 - 2y) = 90, or, equivalently, 2y - x - z = 90.  (iii)z + 90 + y = 180 since the sum of the measures of the angles of right triangle DAB is 180, or, equivalently, z = 90 - y.  (iv)x= 2z because the measure of exterior angle AOC to AOD is the sum of the measures of the two opposite interior angles, ODA and OAD.  (v)y= 2x because the measure of exterior angle ACB to OCA is the sum of the measures of the two opposite interior angles, COA and CAO. and CAO.  Multiplying the final equation in (iii) by 2 gives 2z = 180 - 2y. But, x = 2z in (iv), so x = 180 - 2y. Finally, the sum of the measures of the angles of CAB is 180 and so y + y + x = 180. Then from (v), 2x + 2x + x = 180, 5x = 180, and x = 36.  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 170,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "An airline passenger is planning a trip that involves  three connecting flights that leave from Airports A, B,  and C, respectively. The first flight leaves Airport A  every hour, beginning at 8:00 a.m., and arrives at  Airport  B  2  1  hours  later.  The  second  flight  leaves 2  Airport B every 20 minutes, beginning at 8:00 a.m.,  and arrives at Airport C 11 hours later. The third flight 6  leaves Airport C every hour, beginning at 8:45 a.m.  What is the least total amount of time the passenger  must spend between flights if all flights keep to their  schedules?  ",
+        "answer_options": ["25 min", "1 hr 5 min", "1 hr 15 min 1 hr 15 min", "2 hr 20 min", "3 hr 40 min"],
+        "correct_answer": 1,
+        "explanation_text": "Since the flight schedules at each of Airports A, B, and C are the same hour after hour, assume that the passenger leaves Airport A at 8:00 and arrives at Airport B at 10:30. Since flights from Airport B leave at 20-minute intervals beginning on the hour, the passenger must wait 10 minutes at Airport B for the flight that leaves at 10:40 and arrives at Airport C 11 hours or 1 hour  6 10 minutes later. Thus, the passenger arrives at Airport C at 11:50. Having arrived too late for the 11:45 flight from Airport C, the passenger must wait 55 minutes for the 12:45 flight. Thus, Airport C at 11:50. Having arrived too late for the 11:45 flight from Airport C, the passenger must wait 55 minutes for the 12:45 flight. Thus, the least total amount of time the passenger must spend waiting between flights is 10 + 55 = 65 minutes, or 1 hour 5 minutes.  The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 171,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "If n is a positive integer and n2 is divisible by 72, then the largest positive integer that must divide n is  ",
+        "answer_options": ["6", "12", "24", "36", "48"],
+        "correct_answer": 1,
+        "explanation_text": "Since n2 is divisible by 72, n2 = 72k for some positive integer k. Since n2 = 72k, then 72k must be a perfect square. Since 72k = (23)(32)k, then k = 2m2 for some positive integer m in order for 72k to be a perfect square. Then, n2 = 72k = (23)(32)(2m2) = (24)(32)m2 = [(22)(3)(m)]2, and n = (22)(3)(m). The positive integers that MUST divide n are 1, 2, 3, 4, 6, and 12. Therefore, the largest positive integer that must divide n is 12. The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 172,
+        "question_type": "Algebra",
+        "question_subtypes": ["Simplifying algebraic expressions", ""],
+        "question_text": "A certain grocery purchased x pounds of produce for p dollars per pound. If y pounds of the produce had to be discarded due to spoilage and the grocery sold the rest for s dollars per pound, which of the following represents the gross profit on the sale of the produce? ",
+        "answer_options": ["(x - y)s - xp", "(x - y)p - ys", "(s - p)y - xp", "xp - ys xp - ys", "(x - y)(s - p)"],
+        "correct_answer": 0,
+        "explanation_text": "Applied problems  Since the grocery bought x pounds of produce for p dollars per pound, the total cost of the produce was xp dollars. Since y pounds of the produce was discarded, the grocery sold x - y pounds of produce at the price of s dollars per pound, yielding a total revenue of (x \ufffd y)s dollars. Then, the grocery's gross profit on the sale of the produce is its total revenue minus its total cost or (x \ufffd y)s \ufffd xp dollars.  The correct answer is A. ",
+        "page_num": 121
+    }, {
+        "question_number": 173,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Properties of numbers"],
+        "question_text": "If x, y, and z are positive integers such that x is a factor of y, and x is a multiple of z, which of the following is NOT necessarily an integer?  ",
+        "answer_options": ["x+z", "y +z", "x+y", "xy", "x"],
+        "correct_answer": 1,
+        "explanation_text": " Since the positive integer x is a factor of y, then y = kx for some positive integer k. Since x is a multiple of the positive integer z, then x = mz for some positive integer m. Substitute these expressions for x and/or y into each answer choice to find the one expression that is NOT necessarily an integer.  Ax + z = mz + z = (m + 1)z = m + 1, which z            z             z  MUST be an integer  By + z = y + z = kx + z = k + 1 , which x x x x mz m  NEED NOT be an integer  Because only one of the five expressions need not be an integer, the expressions given in C, D, and E need not be tested. However, for completeness,  Cx + y = mz + kx = mz + k(mz) = mz(1 + k) z            z                z             z  = m(1 + k), which MUST be an integer  Dxy = (mz) y = my, which MUST be an zz integer  yz  =  (kx)(z)  =  kz,  which  MUST  be  an E x            x integer The correct answer is B. ",
+        "page_num": 121
+    }, {
+        "question_number": 174,
+        "question_type": "Algebra",
+        "question_subtypes": ["Applied problems"],
+        "question_text": "Running at their respective constant rates, Machine X  takes 2 days longer to produce w widgets than  Machine Y. At these rates, if the two machines together  produce  5  w  widgets  in  3  days,  how  many  days  would 4  it take Machine X alone to produce 2w widgets?  ",
+        "answer_options": ["4", "6", "8", "10", "12"],
+        "correct_answer": 4,
+        "explanation_text": " If x, where x > 2, represents the number of days  Machine X takes to produce w widgets, then  Machine Y takes x - 2 days to produce w widgets.  It follows that Machines X and Y can produce w and w widgets, respectively, in 1 day and x x- 2 together they can produce   w+ w         widgets x x-2  in 1 day. Since it is given that, together, they can  produce 5 w widgets in 3 days, it follows that, 4 together, they can produce  1    5  w    = 5w 3    4         12  widgets in 1 day. Thus,  w+ w = 5w x x - 2 12 1 1  5 1  +  x  1  2    w  =  5   w x        -             12  1  +  x  1  2    =  5 x        -          12  12x(x  -  2)   1  +  x  1       =  12x(x  -  2)  5 x        -  2                     12  12[(x - 2) + x] = 5x(x - 2)  12(2x - 2) = 5x(x - 2)  24x - 24 = 5x2 - 10x  0 = 5x2 - 34x + 24  0 = (5x - 4)(x - 6)  x = 4 or 6 5  Therefore, since x > 2, it follows that x = 6. Machine X takes 6 days to produce w widgets and 2(6) = 12 days to produce 2w widgets.  The correct answer is E. ",
+        "page_num": 121
+    }, {
+        "question_number": 175,
+        "question_type": "Geometry",
+        "question_subtypes": ["Area"],
+        "question_text": "A square wooden plaque has a square brass inlay in  the center, leaving a wooden strip of uniform width around the brass square. If the ratio of the brass area to the wooden area is 25 to 39, which of the following could be the width, in inches, of the wooden strip? ",
+        "answer_options": ["I only", "II only", "I and II only", "I and III only", "I, II, and III"],
+        "correct_answer": 4,
+        "explanation_text": " x  y w  Note: Not drawn to scale. Let x represent the side length of the entire  plaque, let y represent the side length of the brass  inlay, and w represent the uniform width of the  wooden strip around the brass inlay, as shown in  the figure above. Since the ratio of the area of the  brass inlay to the area of the wooden strip is 25 to  39, the ratio of the area of the brass inlay to the  area  of the entire  plaque  is  y2    =    25       =  25 . x2       25 + 39       64  Then, y =  25  =     5  and  y   =  5x    . Also, x  =  y  +  2w x   64        8              8  and w = x - y . Substituting 5 x for y into this 2                        8  expression for w gives       x-5x         3x               3  x. w= 8 =            8= 2    2 16 Thus,  146 I.If the plaque were 16 inches on a side, then 3  the width of the wooden strip would be  1 inch, and so 1 inch is a possible width for the wooden strip.  II.If the plaque were 16 inches on a side, then the width of the wooden strip would be 3 inches, and so 3 inches is a possible width for the wooden strip.  III.If the plaque were 64 inches on a side, then 3  the width of the wooden strip would be  4 inches, and so 4 inches is a possible width for the wooden strip.  The correct answer is E. ",
+        "page_num": 121
+    }, {
+        "question_number": 176,
+        "question_type": "Arithmetic",
+        "question_subtypes": ["Operations on rational numbers"],
+        "question_text": "23   -  12 5      3 2          = 3 3  -  5  ",
+        "answer_options": ["16", "14", "3", "1", "\ufffd1"],
+        "correct_answer": 1,
+        "explanation_text": "Work the problem:  2 3 -1 2 5      3 2     3    =  - 35  13 - 5  =  39 - 25  =  14  =  14  \ufffd 15  = 14 53                            15     1 2-3          15        15 10 - 9      1  3 5 15 15  The correct answer is B. ",
+        "page_num": 121
+    }]
+}
